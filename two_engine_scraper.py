@@ -13,8 +13,9 @@ from typing import Dict, List
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from dotenv import load_dotenv
 
-from quantitative_engine import run_quantitative_engine  
-from diamond_finder_engine import run_diamond_finder_engine
+from quantitative_engine import QuantitativeEngine
+from diamond_finder_engine import DiamondFinderEngine
+from event_intelligence_engine import EventIntelligenceEngine
 
 
 def load_api_keys():

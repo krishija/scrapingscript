@@ -143,17 +143,15 @@ class QuantitativeEngine:
         metrics = {
             "housing": {
                 "queries": [
-                    f'"{campus_name}" "Common Data Set" housing undergraduate',
-                    f'"{campus_name}" student housing statistics percentage',
-                    f'site:.edu "{campus_name}" housing facts occupancy'
+                    f'"{campus_name}" "Common Data Set" housing undergraduate percentage',
+                    f'"{campus_name}" student housing statistics site:.edu'
                 ],
                 "prompt": EXTRACT_HOUSING_PROMPT
             },
             "centricity": {
                 "queries": [
-                    f'"{campus_name}" Walk Score college town',
-                    f'site:reddit.com "is {campus_name} a college town"',
-                    f'"{campus_name}" campus location urban suburban'
+                    f'"{campus_name}" Walk Score college town site:reddit.com',
+                    f'"{campus_name}" campus location urban suburban college town'
                 ],
                 "prompt": EXTRACT_CENTRICITY_PROMPT
             },
@@ -197,31 +195,48 @@ class QuantitativeEngine:
         for metric_name, config in metrics.items():
             print(f"\n🔍 Analyzing: {metric_name.upper()}")
             
-            # Gather search data for this metric
+            # Gather search data for this metric with early exit optimization
             search_results = []
-            for query in config["queries"]:
-                print(f"   Query: {query[:60]}...")
+            extracted = None
+            
+            for i, query in enumerate(config["queries"]):
+                print(f"   Query {i+1}/{len(config['queries'])}: {query[:60]}...")
                 try:
                     result = tool_web_search(query)
                     if result.get("corpus"):
                         search_results.append(result["corpus"])
+                    
+                    # Early exit check: if first query gives high confidence, stop
+                    if i == 0 and search_results:
+                        temp_data = search_results[0][:8000]
+                        temp_metric = self.extract_metric(config["prompt"], temp_data, campus_name)
+                        if temp_metric.get("confidence") == "high":
+                            print(f"   ⚡ Early exit: High confidence data found")
+                            extracted = temp_metric
+                            break
+                    
                     time.sleep(0.3)  # Rate limiting
                 except Exception as e:
                     print(f"   ❌ Query failed: {e}")
             
-            # Combine search data
-            combined_data = "\n\n---\n\n".join(search_results)[:12000]  # Limit context
+            # Use early exit result or combine all data
+            if not extracted:
+                combined_data = "\n\n---\n\n".join(search_results)[:12000]  # Limit context
             
-            # Extract metric using AI
-            if combined_data:
-                extracted = self.extract_metric(config["prompt"], combined_data, campus_name)
-                results["growth_correlates"][metric_name] = extracted
-                
-                confidence = extracted.get("confidence", "unknown")
-                print(f"   ✅ Extracted: {confidence} confidence")
-            else:
-                results["growth_correlates"][metric_name] = {"error": "No search data found"}
+            # Extract metric using AI (if not already extracted via early exit)
+            if not extracted:
+                if search_results:
+                    combined_data = "\n\n---\n\n".join(search_results)[:12000]
+                    extracted = self.extract_metric(config["prompt"], combined_data, campus_name)
+                else:
+                    extracted = {"error": "No search data found"}
+            
+            results["growth_correlates"][metric_name] = extracted
+            confidence = extracted.get("confidence", "unknown")
+            if extracted.get("error"):
                 print(f"   ❌ No data found")
+            else:
+                print(f"   ✅ Extracted: {confidence} confidence")
         
         # Calculate data quality score
         valid_metrics = sum(1 for m in results["growth_correlates"].values() 

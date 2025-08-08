@@ -11,7 +11,8 @@ from typing import Dict, List
 from dotenv import load_dotenv
 
 import google.generativeai as genai
-from tools import tool_web_search, tool_crawl_for_contacts
+from tools import tool_web_search
+from contact_finder_engine import ContactFinderEngine
 
 
 # Diamond finding prompts
@@ -72,6 +73,7 @@ IMPORTANT: If you find ANY email address (@domain), include it. Don't be picky -
 class DiamondFinderEngine:
     def __init__(self, gemini_api_key: str):
         genai.configure(api_key=gemini_api_key)
+        self.contact_bot = ContactFinderEngine(gemini_api_key)
         for model_name in ['gemini-1.5-pro', 'gemini-1.5-flash', 'gemini-pro']:
             try:
                 self.model = genai.GenerativeModel(model_name)
@@ -123,13 +125,11 @@ class DiamondFinderEngine:
         # Get campus-specific subreddit/newspaper names first
         campus_slug = campus_name.lower().replace(" ", "").replace("university", "").replace("college", "")
         
+        # Optimized diamond queries (reduced from 5 to 3)
         diamond_queries = [
             f'site:{campus_slug}.edu "club spotlight" OR "student organization feature"',
-            f'"most unusual student clubs at {campus_name}"',
-            f'site:reddit.com "{campus_name}" "most active club" OR "best clubs"',
-            f'"{campus_name}" student-run business OR startup competition',
-            f'"{campus_name}" student newspaper unique organizations quirky',
-            f'site:reddit.com/r/{campus_slug} club recommendations active'
+            f'"{campus_name}" unusual student clubs reddit OR startup competition',
+            f'"{campus_name}" student newspaper unique organizations quirky active'
         ]
         
         search_results = []
@@ -165,56 +165,7 @@ class DiamondFinderEngine:
         except Exception as e:
             return {"diamond_orgs": [], "error": str(e)}
     
-    def get_entity_contact(self, entity_name: str, campus_name: str) -> Dict:
-        """Get contact information for a specific entity using deep crawling."""
-        print(f"\n📞 CONTACT FINDER: {entity_name}")
-        
-        # Step 1: Crawl for contact information
-        contact_content = tool_crawl_for_contacts(entity_name, campus_name)
-        
-        if "Could not find" in contact_content or len(contact_content) < 100:
-            return {
-                "organization_name": entity_name,
-                "leader_name": None,
-                "leader_title": None, 
-                "contact_email": None,
-                "phone": None,
-                "error": "Insufficient contact data found"
-            }
-        
-        # Step 2: Extract contact information using AI
-        prompt = CONTACT_EXTRACTION_PROMPT.format(content=contact_content[:10000])
-        
-        try:
-            response = self.model.generate_content(prompt)
-            result = self._parse_json(response.text)
-            
-            if "error" in result:
-                return {
-                    "organization_name": entity_name,
-                    "leader_name": None,
-                    "leader_title": None,
-                    "contact_email": None, 
-                    "phone": None,
-                    "error": result["error"]
-                }
-            
-            # Ensure organization name is set
-            if not result.get("organization_name"):
-                result["organization_name"] = entity_name
-                
-            print(f"✅ Contact found: {result.get('leader_name', 'N/A')} ({result.get('contact_email', 'N/A')})")
-            return result
-            
-        except Exception as e:
-            return {
-                "organization_name": entity_name,
-                "leader_name": None,
-                "leader_title": None,
-                "contact_email": None,
-                "phone": None, 
-                "error": str(e)
-            }
+
     
     def discover_entity_name(self, campus_name: str, entity_type: str) -> str:
         """Discover the actual name of an entity at a specific campus."""
@@ -316,8 +267,8 @@ Official Name:"""
             discovered_name = self.discover_entity_name(campus_name, inroad_type)
             
             if discovered_name:
-                # Step 2: Get contact info for the discovered entity
-                contact_info = self.get_entity_contact(discovered_name, campus_name)
+                # Step 2: Use Relentless Contact Bot for contact info
+                contact_info = self.contact_bot.run(discovered_name, campus_name)
                 
                 # If discovered name failed, try fallback approaches
                 if not contact_info.get("contact_email") or "Could not find homepage" in str(contact_info):
@@ -332,7 +283,7 @@ Official Name:"""
                     }
                     
                     for fallback_name in fallback_names.get(inroad_type, []):
-                        fallback_contact = self.get_entity_contact(fallback_name, campus_name)
+                        fallback_contact = self.contact_bot.run(fallback_name, campus_name)
                         if fallback_contact.get("contact_email") and "@" in fallback_contact["contact_email"]:
                             contact_info = fallback_contact
                             print(f"✅ Fallback successful with: {fallback_name}")
