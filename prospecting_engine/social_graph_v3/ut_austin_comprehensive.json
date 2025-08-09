@@ -1,0 +1,737 @@
+{
+  "campus_name": "University of Texas at Austin",
+  "dossier": {
+    "raw_response": "```json\n{\n  \"Executive_Summary\": {\n    \"campus_tier\": \"Tier 1 - GTM Now\",\n    \"community_potential_score\": 52.3,\n    \"key_insight\": \"UT Austin's large, residential campus coupled with its integration into the vibrant city of Austin creates a unique social ecosystem ripe for targeted engagement.  The high freshman retention rate (94.5%) indicates strong community bonds and potential for sustained campaign impact.\"\n  },\n  \"Key_Community_Clusters\": [\n    {\n      \"name\": \"The Greek Life & Social Scene\",\n      \"description\": \"Composed primarily of students involved in fraternities and sororities, this group is often associated with social events, philanthropy, and a strong network of alumni connections. They are visible on campus and hold leadership positions. Fashion-conscious and image-driven.\"\n    },\n    {\n      \"name\": \"The STEM & Engineering Cohort\",\n      \"description\": \"Highly focused on academics and career-oriented, this cluster revolves around engineering, computer science, and natural sciences. They prioritize technical skills, research, and internships, often collaborating on projects. Pragmatic and results-driven.\"\n    },\n    {\n      \"name\": \"The Liberal Arts & Activism Collective\",\n      \"description\": \"This group includes students in humanities, social sciences, and fine arts. They are often engaged in social justice issues, political activism, and creative expression.  They frequent coffee shops and artistic venues.\"\n    },\n    {\n      \"name\": \"The Longhorn Athletics Tribe\",\n      \"description\": \"Passionate about UT sports, this group actively attends games and participates in related events.  School spirit is a core value, and they are highly engaged with athletic social media and merchandise.\"\n    }\n  ],\n  \"Influence_Rankings\": [\n    {\n      \"name\": \"Student Government\",\n      \"category\": \"Government\",\n      \"justification\": \"Direct access to the student body and influence on campus policies.  Contacts: Dhruv Patel (President), Anagha Kikkeri (VP), Jasm",
+    "Quantitative_Scorecard": {
+      "housing": {
+        "percentInHousing": 45.5,
+        "source": "Common Data Set 2024",
+        "confidence": "high"
+      },
+      "centricity": {
+        "campusCentricityScore": 5,
+        "justification": "Austin is described as an urban setting, but the university has a large residential campus and dedicated campus destinations.  The strong community feel and integration with the city point towards a mixed urban/campus environment.",
+        "confidence": "medium"
+      },
+      "ncaa": {
+        "ncaaDivision": "D1",
+        "conference": "SEC",
+        "confidence": "high"
+      },
+      "greek": {
+        "error": "Failed to parse response"
+      },
+      "ratio": {
+        "studentFacultyRatio": "17:1",
+        "source": "Fall 2023 data",
+        "confidence": "high"
+      },
+      "acceptance": {
+        "acceptanceRate": 29,
+        "source": "Search Results",
+        "confidence": "high"
+      },
+      "out_of_state": {
+        "percentOutOfState": 9.0,
+        "source": "Get Recruited section, Student Primary Residence",
+        "confidence": "high"
+      },
+      "endowment": {
+        "endowmentPerStudent": 60257,
+        "totalEndowment": "3.2 billion",
+        "source": "GettyImages article referencing UT System endowment, with calculation based on 53,082 student enrollment",
+        "confidence": "medium"
+      },
+      "retention": {
+        "freshmanRetentionRate": 94.5,
+        "source": "Common Data Set",
+        "confidence": "high"
+      }
+    },
+    "PhantomBuster_Ready_Orgs": [
+      {
+        "name": "Texas Blazers",
+        "category": "Service",
+        "engagement_indicators": "Instagram, Events, News Mentions",
+        "target_priority": "high"
+      },
+      {
+        "name": "Student Government",
+        "category": "Government",
+        "engagement_indicators": "Website, News Mentions",
+        "target_priority": "high"
+      },
+      {
+        "name": "Texas Orange Jackets",
+        "category": "Service",
+        "engagement_indicators": "Instagram, Events",
+        "target_priority": "high"
+      },
+      {
+        "name": "Texas Rocket Engineering Lab (TREL)",
+        "category": "Academic",
+        "engagement_indicators": "Website, News Mentions",
+        "target_priority": "high"
+      },
+      {
+        "name": "University Unions",
+        "category": "Special",
+        "engagement_indicators": "Instagram, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Texas Quidditch",
+        "category": "Sports",
+        "engagement_indicators": "Instagram, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Texas Longhorns Esports",
+        "category": "Sports",
+        "engagement_indicators": "Instagram, Events, News Mentions",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Longhorn Consulting Agency",
+        "category": "Academic",
+        "engagement_indicators": "Website, LinkedIn",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Texas Pre-Law Society",
+        "category": "Academic",
+        "engagement_indicators": "Website, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Alpha Kappa Psi",
+        "category": "Academic",
+        "engagement_indicators": "Website, Instagram",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Pi Beta Phi",
+        "category": "Greek",
+        "engagement_indicators": "Instagram, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Sigma Alpha Epsilon",
+        "category": "Greek",
+        "engagement_indicators": "Instagram, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Kappa Alpha Theta",
+        "category": "Greek",
+        "engagement_indicators": "Instagram, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Hispanic Students Association",
+        "category": "Cultural",
+        "engagement_indicators": "Instagram, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Asian American Student Association",
+        "category": "Cultural",
+        "engagement_indicators": "Instagram, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Black Student Alliance",
+        "category": "Cultural",
+        "engagement_indicators": "Instagram, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Texas Recreational Sports",
+        "category": "Sports",
+        "engagement_indicators": "Website, Instagram",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Texas Longhorns Swimming and Diving",
+        "category": "Sports",
+        "engagement_indicators": "Instagram, News Mentions",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Texas Theatre and Dance",
+        "category": "Arts",
+        "engagement_indicators": "Website, Instagram, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "VolunteerUT",
+        "category": "Service",
+        "engagement_indicators": "Website, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Habitat for Humanity UT",
+        "category": "Service",
+        "engagement_indicators": "Website, Instagram",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Cru at UT Austin",
+        "category": "Religious",
+        "engagement_indicators": "Website, Instagram",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Hillel at UT",
+        "category": "Religious",
+        "engagement_indicators": "Website, Instagram",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Muslim Students Association",
+        "category": "Religious",
+        "engagement_indicators": "Website, Instagram",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Senate of College Councils",
+        "category": "Government",
+        "engagement_indicators": "Website",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Graduate Student Assembly",
+        "category": "Government",
+        "engagement_indicators": "Website",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Longhorn Gaming Club",
+        "category": "Special",
+        "engagement_indicators": "Instagram, Events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Longhorn Singers",
+        "category": "Arts",
+        "engagement_indicators": "Website, Instagram",
+        "target_priority": "low"
+      },
+      {
+        "name": "Texas Wranglers",
+        "category": "Arts",
+        "engagement_indicators": "Website, Instagram",
+        "target_priority": "low"
+      },
+      {
+        "name": "Tau Beta Pi",
+        "category": "Honor",
+        "engagement_indicators": "Website",
+        "target_priority": "low"
+      }
+    ]
+  },
+  "raw_data": {
+    "quantitative": {
+      "scorecard": {
+        "housing": {
+          "percentInHousing": 45.5,
+          "source": "Common Data Set 2024",
+          "confidence": "high"
+        },
+        "centricity": {
+          "campusCentricityScore": 5,
+          "justification": "Austin is described as an urban setting, but the university has a large residential campus and dedicated campus destinations.  The strong community feel and integration with the city point towards a mixed urban/campus environment.",
+          "confidence": "medium"
+        },
+        "ncaa": {
+          "ncaaDivision": "D1",
+          "conference": "SEC",
+          "confidence": "high"
+        },
+        "greek": {
+          "error": "Failed to parse response"
+        },
+        "ratio": {
+          "studentFacultyRatio": "17:1",
+          "source": "Fall 2023 data",
+          "confidence": "high"
+        },
+        "acceptance": {
+          "acceptanceRate": 29,
+          "source": "Search Results",
+          "confidence": "high"
+        },
+        "out_of_state": {
+          "percentOutOfState": 9.0,
+          "source": "Get Recruited section, Student Primary Residence",
+          "confidence": "high"
+        },
+        "endowment": {
+          "endowmentPerStudent": 60257,
+          "totalEndowment": "3.2 billion",
+          "source": "GettyImages article referencing UT System endowment, with calculation based on 53,082 student enrollment",
+          "confidence": "medium"
+        },
+        "retention": {
+          "freshmanRetentionRate": 94.5,
+          "source": "Common Data Set",
+          "confidence": "high"
+        }
+      },
+      "community_potential_score": 52.3,
+      "data_quality": {
+        "valid_metrics": 8,
+        "total_metrics": 9,
+        "quality_score": 88.9
+      }
+    },
+    "intelligence": {
+      "third_places": {
+        "third_places": [
+          {
+            "location_name": "Cain & Abel's",
+            "type": "bar",
+            "address": "2313 Rio Grande St, Austin, TX 78705",
+            "rating": 4.0,
+            "social_context": "Popular for its relaxed atmosphere, cheap drinks, and large outdoor patio, attracting students for socializing and pre-gaming. Busy evenings and weekends.",
+            "student_popularity": "high"
+          },
+          {
+            "location_name": "Spider House Ballroom",
+            "type": "cafe/bar",
+            "address": "2906 Fruth St, Austin, TX 78705",
+            "rating": 4.3,
+            "social_context": "Known for its eclectic atmosphere, live music, coffee, and drinks. Attracts students for studying, socializing, and attending events. Busy evenings and weekends.",
+            "student_popularity": "high"
+          },
+          {
+            "location_name": "Kerbey Lane Cafe (Guadalupe)",
+            "type": "restaurant",
+            "address": "2606 Guadalupe St, Austin, TX 78705",
+            "rating": 4.4,
+            "social_context": "A classic Austin diner popular with students for its 24/7 availability, comfort food, and affordable prices. A common spot for late-night study sessions and meals. Busy all day, especially late night.",
+            "student_popularity": "high"
+          },
+          {
+            "location_name": "UT Tower",
+            "type": "landmark/park",
+            "address": "110 Inner Campus Dr, Austin, TX 78705",
+            "rating": 4.7,
+            "social_context": "Central gathering point on campus, used for studying, relaxing, and meeting friends. Also a popular spot for photos and campus tours. Busy daytime, especially between classes.",
+            "student_popularity": "high"
+          }
+        ]
+      },
+      "communities": {
+        "community_clusters": [
+          {
+            "name": "The Greek Life & Social Scene",
+            "description": "Composed primarily of students involved in fraternities and sororities, this group is often associated with social events, philanthropy, and a strong network of alumni connections. They tend to be more visible on campus and often hold leadership positions in student government and other organizations.  Fashion-conscious and image-driven, with a focus on building social capital.",
+            "influence": "medium"
+          },
+          {
+            "name": "The STEM & Engineering Cohort",
+            "description": "Highly focused on academics and career-oriented, this cluster revolves around the engineering, computer science, and natural science departments.  They prioritize technical skills, research opportunities, and internships, often collaborating on projects and studying together. Pragmatic and results-driven, they are less focused on the broader social scene and more on their specific academic pursuits.",
+            "influence": "medium"
+          },
+          {
+            "name": "The Liberal Arts & Activism Collective",
+            "description": "This group includes students in humanities, social sciences, and fine arts.  They are often engaged in social justice issues, political activism, and creative expression. They frequent campus events related to these interests and can be found participating in protests and community outreach.  Values-driven and intellectually curious, they seek to understand and impact the world around them.",
+            "influence": "low"
+          },
+          {
+            "name": "The Longhorn Athletics & Spirit Squad",
+            "description": "Dedicated fans and followers of UT Austin athletics, this cluster centers around sporting events and school spirit.  They attend games, tailgate parties, and support Longhorn teams with passionate enthusiasm. School pride and community are central values for this group, who are often highly visible and vocal on campus, especially during game days.",
+            "influence": "medium"
+          },
+          {
+            "name": "The Graduate & Researcher Network",
+            "description": "Composed of graduate students across various disciplines, this cluster is more focused on research, academic conferences, and professional development. They often form tight-knit communities within their respective departments and are less integrated into the broader undergraduate social scene. Career-focused and academically driven, they prioritize their research and future career prospects.",
+            "influence": "low"
+          }
+        ]
+      },
+      "diamond_orgs": {
+        "comprehensive_orgs": [
+          {
+            "name": "Texas Blazers",
+            "category": "Service",
+            "engagement_indicators": "Instagram, Events, News Mentions",
+            "target_priority": "high"
+          },
+          {
+            "name": "Student Government",
+            "category": "Government",
+            "engagement_indicators": "Website, News Mentions",
+            "target_priority": "high"
+          },
+          {
+            "name": "Texas Orange Jackets",
+            "category": "Service",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "high"
+          },
+          {
+            "name": "Texas Rocket Engineering Lab (TREL)",
+            "category": "Academic",
+            "engagement_indicators": "Website, News Mentions",
+            "target_priority": "high"
+          },
+          {
+            "name": "University Unions",
+            "category": "Special",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Texas Quidditch",
+            "category": "Sports",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Texas Longhorns Esports",
+            "category": "Sports",
+            "engagement_indicators": "Instagram, Events, News Mentions",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Longhorn Consulting Agency",
+            "category": "Academic",
+            "engagement_indicators": "Website, LinkedIn",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Texas Pre-Law Society",
+            "category": "Academic",
+            "engagement_indicators": "Website, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Alpha Kappa Psi",
+            "category": "Academic",
+            "engagement_indicators": "Website, Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Pi Beta Phi",
+            "category": "Greek",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Sigma Alpha Epsilon",
+            "category": "Greek",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Kappa Alpha Theta",
+            "category": "Greek",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Hispanic Students Association",
+            "category": "Cultural",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Asian American Student Association",
+            "category": "Cultural",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Black Student Alliance",
+            "category": "Cultural",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Texas Recreational Sports",
+            "category": "Sports",
+            "engagement_indicators": "Website, Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Texas Longhorns Swimming and Diving",
+            "category": "Sports",
+            "engagement_indicators": "Instagram, News Mentions",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Texas Theatre and Dance",
+            "category": "Arts",
+            "engagement_indicators": "Website, Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "VolunteerUT",
+            "category": "Service",
+            "engagement_indicators": "Website, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Habitat for Humanity UT",
+            "category": "Service",
+            "engagement_indicators": "Website, Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Cru at UT Austin",
+            "category": "Religious",
+            "engagement_indicators": "Website, Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Hillel at UT",
+            "category": "Religious",
+            "engagement_indicators": "Website, Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Muslim Students Association",
+            "category": "Religious",
+            "engagement_indicators": "Website, Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Senate of College Councils",
+            "category": "Government",
+            "engagement_indicators": "Website",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Graduate Student Assembly",
+            "category": "Government",
+            "engagement_indicators": "Website",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Longhorn Gaming Club",
+            "category": "Special",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Longhorn Singers",
+            "category": "Arts",
+            "engagement_indicators": "Website, Instagram",
+            "target_priority": "low"
+          },
+          {
+            "name": "Texas Wranglers",
+            "category": "Arts",
+            "engagement_indicators": "Website, Instagram",
+            "target_priority": "low"
+          },
+          {
+            "name": "Tau Beta Pi",
+            "category": "Honor",
+            "engagement_indicators": "Website",
+            "target_priority": "low"
+          }
+        ],
+        "total_found": 32,
+        "phantombuster_ready": true,
+        "categories_breakdown": {
+          "Service": 4,
+          "Government": 3,
+          "Academic": 4,
+          "Special": 2,
+          "Sports": 4,
+          "Greek": 3,
+          "Cultural": 3,
+          "Arts": 3,
+          "Religious": 3,
+          "Honor": 1
+        }
+      }
+    },
+    "contacts": {
+      "all_contacts": [
+        {
+          "name": "Dhruv Patel",
+          "title": "Student Body President",
+          "organization": "Student Government",
+          "email": "sgpresident@utexas.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Anagha Kikkeri",
+          "title": "Vice President",
+          "organization": "Student Government",
+          "email": "sgvp@utexas.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Jasmine Peralta",
+          "title": "Communications Director",
+          "organization": "Student Government",
+          "email": "comms@utsg.org",
+          "confidence": "high"
+        },
+        {
+          "name": "Gregory Wang",
+          "title": "Student Body Treasurer",
+          "organization": "Student Government",
+          "email": "treasurer@utsg.org",
+          "confidence": "high"
+        },
+        {
+          "name": "Vacant",
+          "title": "President",
+          "organization": "Residence Hall Association",
+          "email": "rhapresident@utexas.edu",
+          "confidence": "medium"
+        },
+        {
+          "name": "Faith DuFresne",
+          "title": "Editor-in-Chief",
+          "organization": "The Daily Texan",
+          "email": "editor@dailytexanonline.com",
+          "confidence": "high"
+        },
+        {
+          "name": "N/A",
+          "title": "Director of Residence Life",
+          "organization": "University Housing and Dining",
+          "email": "uhdrl@utexas.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "N/A",
+          "title": "Director",
+          "organization": "Texas Unions Student Activities",
+          "email": "campusactivities@utexas.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "Sarah Lee",
+          "title": "Resident Advisor",
+          "organization": "Jester West Residence Hall",
+          "email": "sarah.lee@example.com",
+          "influence_type": "peer"
+        },
+        {
+          "name": "Jane Doe",
+          "title": "Orientation Leader",
+          "organization": "New Student Services",
+          "email": "jane.doe@example.com",
+          "influence_type": "tours"
+        },
+        {
+          "name": "John Smith",
+          "title": "Social Media Ambassador",
+          "organization": "UT Austin Admissions",
+          "email": "john.smith@example.com",
+          "influence_type": "social"
+        },
+        {
+          "name": "Megan Tran",
+          "title": "Managing Editor",
+          "organization": "The Daily Texan",
+          "email": "managingeditor@dailytexanonline.com",
+          "confidence": "high"
+        }
+      ],
+      "email_contacts": [
+        {
+          "name": "Dhruv Patel",
+          "title": "Student Body President",
+          "organization": "Student Government",
+          "email": "sgpresident@utexas.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Anagha Kikkeri",
+          "title": "Vice President",
+          "organization": "Student Government",
+          "email": "sgvp@utexas.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Jasmine Peralta",
+          "title": "Communications Director",
+          "organization": "Student Government",
+          "email": "comms@utsg.org",
+          "confidence": "high"
+        },
+        {
+          "name": "Gregory Wang",
+          "title": "Student Body Treasurer",
+          "organization": "Student Government",
+          "email": "treasurer@utsg.org",
+          "confidence": "high"
+        },
+        {
+          "name": "Vacant",
+          "title": "President",
+          "organization": "Residence Hall Association",
+          "email": "rhapresident@utexas.edu",
+          "confidence": "medium"
+        },
+        {
+          "name": "Faith DuFresne",
+          "title": "Editor-in-Chief",
+          "organization": "The Daily Texan",
+          "email": "editor@dailytexanonline.com",
+          "confidence": "high"
+        },
+        {
+          "name": "N/A",
+          "title": "Director of Residence Life",
+          "organization": "University Housing and Dining",
+          "email": "uhdrl@utexas.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "N/A",
+          "title": "Director",
+          "organization": "Texas Unions Student Activities",
+          "email": "campusactivities@utexas.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "Sarah Lee",
+          "title": "Resident Advisor",
+          "organization": "Jester West Residence Hall",
+          "email": "sarah.lee@example.com",
+          "influence_type": "peer"
+        },
+        {
+          "name": "Jane Doe",
+          "title": "Orientation Leader",
+          "organization": "New Student Services",
+          "email": "jane.doe@example.com",
+          "influence_type": "tours"
+        },
+        {
+          "name": "John Smith",
+          "title": "Social Media Ambassador",
+          "organization": "UT Austin Admissions",
+          "email": "john.smith@example.com",
+          "influence_type": "social"
+        },
+        {
+          "name": "Megan Tran",
+          "title": "Managing Editor",
+          "organization": "The Daily Texan",
+          "email": "managingeditor@dailytexanonline.com",
+          "confidence": "high"
+        }
+      ],
+      "contact_count": 12,
+      "strategies_used": [
+        "leadership",
+        "directories",
+        "events",
+        "social"
+      ]
+    }
+  },
+  "generated_at": "2025-08-09T11:08:25.523138"
+}

@@ -245,7 +245,7 @@ def generate_prospecting_pdf(report_data: dict) -> str:
                     
                     if "@" in email:
                         story.append(Paragraph(f"   📧 Email: <b>{email}</b>", styles['ContactText']))
-                    else:
+        else:
                         story.append(Paragraph(f"   📧 Email: {email}", styles['ContactText']))
                     
                     story.append(Spacer(1, 0.08*inch))

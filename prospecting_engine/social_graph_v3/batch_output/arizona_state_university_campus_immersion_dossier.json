@@ -1,0 +1,627 @@
+{
+  "campus_name": "Arizona State University Campus Immersion",
+  "dossier": {
+    "raw_response": "```json\n{\n  \"Executive_Summary\": {\n    \"campus_tier\": \"Tier 2 - GTM Next, With Nuance\",\n    \"community_potential_score\": 0,\n    \"key_insight\": \"Despite the lack of quantitative data, distinct community clusters exist at ASU, offering targeted GTM opportunities through student leadership and organizations like ACM and USG.\"\n  },\n  \"Key_Community_Clusters\": [\n    \"The Changemakers & Innovators\",\n    \"The Sun Devils & Sports Fanatics\",\n    \"The Future Professionals & Career Climbers\"\n  ],\n  \"Influence_Rankings\": [\n    {\n      \"name\": \"Undergraduate Student Government (USG)\",\n      \"category\": \"Government\",\n      \"justification\": \"Represents the student body and has significant influence on campus policies and initiatives.\"\n    },\n    {\n      \"name\": \"Daniel Lopez (USG President)\",\n      \"category\": \"Government\",\n      \"justification\": \"Leads USG and has direct access to student body concerns and initiatives.\"\n    },\n    {\n      \"name\": \"Kianna Simmons (USG VP of Services)\",\n      \"category\": \"Government\",\n      \"justification\": \"Oversees student services and has a broad reach across the student population.\"\n    },\n    {\n      \"name\": \"Vianey Leyva (USG Executive Chief of Staff)\",\n      \"category\": \"Government\",\n      \"justification\": \"Key administrative leader within USG, facilitating communication and operations.\"\n    },\n    {\n      \"name\": \"Association for Computing Machinery (ACM)\",\n      \"category\": \"Academic/Professional\",\n      \"justification\": \"High target priority organization with active engagement in hackathons and workshops, indicated by their Instagram presence.\"\n    },\n    {\n      \"name\": \"Interfraternity Council (IFC)\",\n      \"category\": \"Social\",\n      \"justification\": \"Influences a significant portion of the student social scene through philanthropy and social media.\"\n    },\n    {\n      \"name\": \"The State Press\",\n      \"category\": \"Media\",\n      \"justification\": \"Campus newspaper with broad reach and influence on student opinion.\"\n    },\n    {\n      \"na",
+    "Quantitative_Scorecard": {
+      "housing": {
+        "error": "No search data found"
+      },
+      "centricity": {
+        "error": "No search data found"
+      },
+      "ncaa": {
+        "error": "No search data found"
+      },
+      "greek": {
+        "error": "No search data found"
+      },
+      "ratio": {
+        "error": "No search data found"
+      },
+      "acceptance": {
+        "error": "No search data found"
+      },
+      "out_of_state": {
+        "error": "No search data found"
+      },
+      "endowment": {
+        "error": "No search data found"
+      },
+      "retention": {
+        "error": "No search data found"
+      }
+    },
+    "PhantomBuster_Ready_Orgs": [
+      {
+        "name": "Association for Computing Machinery (ACM)",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Hackathons, workshops, Instagram",
+        "target_priority": "high"
+      },
+      {
+        "name": "Interfraternity Council (IFC)",
+        "category": "Greek Life",
+        "engagement_indicators": "Philanthropy events, social media presence",
+        "target_priority": "high"
+      },
+      {
+        "name": "Panhellenic Association",
+        "category": "Greek Life",
+        "engagement_indicators": "Recruitment events, social media presence",
+        "target_priority": "high"
+      },
+      {
+        "name": "Black Student Union (BSU)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Cultural events, discussions, social media",
+        "target_priority": "high"
+      },
+      {
+        "name": "Hispanic/Latino Student Association (HILSA)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Cultural celebrations, advocacy, Instagram",
+        "target_priority": "high"
+      },
+      {
+        "name": "Sun Devil Fitness Complex",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Fitness classes, events, social media",
+        "target_priority": "high"
+      },
+      {
+        "name": "Changemaker Central",
+        "category": "Service/Volunteer",
+        "engagement_indicators": "Volunteer opportunities, community projects",
+        "target_priority": "high"
+      },
+      {
+        "name": "Undergraduate Student Government (USG)",
+        "category": "Student Government",
+        "engagement_indicators": "Student advocacy, campus events",
+        "target_priority": "high"
+      },
+      {
+        "name": "American Institute of Aeronautics and Astronautics (AIAA)",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Events, competitions",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Alpha Kappa Psi",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Professional development events, Instagram",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Delta Sigma Pi",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Business competitions, networking events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Sigma Alpha Epsilon",
+        "category": "Greek Life",
+        "engagement_indicators": "Social events, philanthropy",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Kappa Delta Chi",
+        "category": "Greek Life",
+        "engagement_indicators": "Cultural events, community service",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Asian Pacific American Student Coalition (APASC)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Cultural showcases, community events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Native American Student Association (NASA)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Cultural awareness events, support services",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Intramural Sports",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Sports leagues, tournaments",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Club Sports",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Competitive club teams, travel",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Outdoor Adventures",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Trips, excursions, social media",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Devil's Advocate Theatre Company",
+        "category": "Arts/Creative",
+        "engagement_indicators": "Theatre productions, workshops",
+        "target_priority": "medium"
+      },
+      {
+        "name": "ASU Art Club",
+        "category": "Arts/Creative",
+        "engagement_indicators": "Art exhibitions, workshops, Instagram",
+        "target_priority": "medium"
+      },
+      {
+        "name": "942 Crew",
+        "category": "Arts/Creative",
+        "engagement_indicators": "Music events, performances",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Habitat for Humanity ASU",
+        "category": "Service/Volunteer",
+        "engagement_indicators": "Building projects, fundraising",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Alpha Phi Omega",
+        "category": "Service/Volunteer",
+        "engagement_indicators": "Service projects, leadership development",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Cru at ASU",
+        "category": "Religious/Spiritual",
+        "engagement_indicators": "Meetings, events, social media",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Hillel Jewish Student Center",
+        "category": "Religious/Spiritual",
+        "engagement_indicators": "Religious services, cultural events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Muslim Student Association (MSA)",
+        "category": "Religious/Spiritual",
+        "engagement_indicators": "Prayer services, community events",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Barrett, the Honors College Student Government",
+        "category": "Student Government",
+        "engagement_indicators": "Events, advocacy, student representation",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Tempe Undergraduate Student Government (TUSG)",
+        "category": "Student Government",
+        "engagement_indicators": "Campus-specific events, initiatives",
+        "target_priority": "medium"
+      },
+      {
+        "name": "Sun Devil Quidditch",
+        "category": "Special Interest",
+        "engagement_indicators": "Practices, tournaments, social media",
+        "target_priority": "low"
+      },
+      {
+        "name": "Anime Club",
+        "category": "Special Interest",
+        "engagement_indicators": "Screenings, discussions, conventions",
+        "target_priority": "low"
+      }
+    ]
+  },
+  "raw_data": {
+    "quantitative": {
+      "scorecard": {
+        "housing": {
+          "error": "No search data found"
+        },
+        "centricity": {
+          "error": "No search data found"
+        },
+        "ncaa": {
+          "error": "No search data found"
+        },
+        "greek": {
+          "error": "No search data found"
+        },
+        "ratio": {
+          "error": "No search data found"
+        },
+        "acceptance": {
+          "error": "No search data found"
+        },
+        "out_of_state": {
+          "error": "No search data found"
+        },
+        "endowment": {
+          "error": "No search data found"
+        },
+        "retention": {
+          "error": "No search data found"
+        }
+      },
+      "community_potential_score": 0,
+      "data_quality": {
+        "valid_metrics": 0,
+        "total_metrics": 9,
+        "quality_score": 0.0
+      }
+    },
+    "intelligence": {
+      "third_places": {
+        "third_places": []
+      },
+      "communities": {
+        "community_clusters": [
+          {
+            "name": "The Changemakers & Innovators",
+            "description": "Driven and ambitious students passionate about social impact, entrepreneurship, and technological advancement.  They are often involved in research, startups, sustainability initiatives, and engineering projects.  This group tends to be future-focused and highly engaged with the university's innovation ecosystem.",
+            "influence": "medium"
+          },
+          {
+            "name": "The Sun Devils & Sports Fanatics",
+            "description": "A vibrant and spirited community centered around ASU athletics and school pride.  Members are dedicated fans, attending sporting events, tailgating, and actively participating in student sections. They are highly social and often involved in Greek life or other social clubs, fostering a strong sense of community and camaraderie.  This group thrives on school spirit and game day traditions.",
+            "influence": "medium"
+          },
+          {
+            "name": "The Arts & Culture Collective",
+            "description": "Creative and expressive students involved in visual arts, performing arts, music, theatre, and film. They gravitate towards Herberger Institute for Design and the Arts and actively participate in campus productions, exhibitions, and workshops. This group fosters a collaborative and intellectually stimulating environment, valuing artistic expression and cultural exploration.",
+            "influence": "low"
+          },
+          {
+            "name": "The Future Professionals & Career Climbers",
+            "description": "Pragmatic and career-oriented students focused on academic success, professional development, and networking opportunities.  They are actively involved in student government, business clubs, pre-professional organizations, and career services. This group prioritizes internships, job placements, and building a strong foundation for their future careers.",
+            "influence": "medium"
+          },
+          {
+            "name": "The Global Citizens & Social Activists",
+            "description": "Socially conscious and globally minded students engaged in community service, advocacy, and promoting diversity and inclusion. They are involved in various social justice initiatives, cultural exchange programs, and volunteer organizations. This group aims to make a positive impact on the world and values intercultural understanding and social responsibility.",
+            "influence": "low"
+          }
+        ]
+      },
+      "diamond_orgs": {
+        "comprehensive_orgs": [
+          {
+            "name": "Association for Computing Machinery (ACM)",
+            "category": "Academic/Professional",
+            "engagement_indicators": "Hackathons, workshops, Instagram",
+            "target_priority": "high"
+          },
+          {
+            "name": "Interfraternity Council (IFC)",
+            "category": "Greek Life",
+            "engagement_indicators": "Philanthropy events, social media presence",
+            "target_priority": "high"
+          },
+          {
+            "name": "Panhellenic Association",
+            "category": "Greek Life",
+            "engagement_indicators": "Recruitment events, social media presence",
+            "target_priority": "high"
+          },
+          {
+            "name": "Black Student Union (BSU)",
+            "category": "Cultural/Ethnic",
+            "engagement_indicators": "Cultural events, discussions, social media",
+            "target_priority": "high"
+          },
+          {
+            "name": "Hispanic/Latino Student Association (HILSA)",
+            "category": "Cultural/Ethnic",
+            "engagement_indicators": "Cultural celebrations, advocacy, Instagram",
+            "target_priority": "high"
+          },
+          {
+            "name": "Sun Devil Fitness Complex",
+            "category": "Sports/Recreation",
+            "engagement_indicators": "Fitness classes, events, social media",
+            "target_priority": "high"
+          },
+          {
+            "name": "Changemaker Central",
+            "category": "Service/Volunteer",
+            "engagement_indicators": "Volunteer opportunities, community projects",
+            "target_priority": "high"
+          },
+          {
+            "name": "Undergraduate Student Government (USG)",
+            "category": "Student Government",
+            "engagement_indicators": "Student advocacy, campus events",
+            "target_priority": "high"
+          },
+          {
+            "name": "American Institute of Aeronautics and Astronautics (AIAA)",
+            "category": "Academic/Professional",
+            "engagement_indicators": "Events, competitions",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Alpha Kappa Psi",
+            "category": "Academic/Professional",
+            "engagement_indicators": "Professional development events, Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Delta Sigma Pi",
+            "category": "Academic/Professional",
+            "engagement_indicators": "Business competitions, networking events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Sigma Alpha Epsilon",
+            "category": "Greek Life",
+            "engagement_indicators": "Social events, philanthropy",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Kappa Delta Chi",
+            "category": "Greek Life",
+            "engagement_indicators": "Cultural events, community service",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Asian Pacific American Student Coalition (APASC)",
+            "category": "Cultural/Ethnic",
+            "engagement_indicators": "Cultural showcases, community events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Native American Student Association (NASA)",
+            "category": "Cultural/Ethnic",
+            "engagement_indicators": "Cultural awareness events, support services",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Intramural Sports",
+            "category": "Sports/Recreation",
+            "engagement_indicators": "Sports leagues, tournaments",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Club Sports",
+            "category": "Sports/Recreation",
+            "engagement_indicators": "Competitive club teams, travel",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Outdoor Adventures",
+            "category": "Sports/Recreation",
+            "engagement_indicators": "Trips, excursions, social media",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Devil's Advocate Theatre Company",
+            "category": "Arts/Creative",
+            "engagement_indicators": "Theatre productions, workshops",
+            "target_priority": "medium"
+          },
+          {
+            "name": "ASU Art Club",
+            "category": "Arts/Creative",
+            "engagement_indicators": "Art exhibitions, workshops, Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "942 Crew",
+            "category": "Arts/Creative",
+            "engagement_indicators": "Music events, performances",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Habitat for Humanity ASU",
+            "category": "Service/Volunteer",
+            "engagement_indicators": "Building projects, fundraising",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Alpha Phi Omega",
+            "category": "Service/Volunteer",
+            "engagement_indicators": "Service projects, leadership development",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Cru at ASU",
+            "category": "Religious/Spiritual",
+            "engagement_indicators": "Meetings, events, social media",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Hillel Jewish Student Center",
+            "category": "Religious/Spiritual",
+            "engagement_indicators": "Religious services, cultural events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Muslim Student Association (MSA)",
+            "category": "Religious/Spiritual",
+            "engagement_indicators": "Prayer services, community events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Barrett, the Honors College Student Government",
+            "category": "Student Government",
+            "engagement_indicators": "Events, advocacy, student representation",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Tempe Undergraduate Student Government (TUSG)",
+            "category": "Student Government",
+            "engagement_indicators": "Campus-specific events, initiatives",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Sun Devil Quidditch",
+            "category": "Special Interest",
+            "engagement_indicators": "Practices, tournaments, social media",
+            "target_priority": "low"
+          },
+          {
+            "name": "Anime Club",
+            "category": "Special Interest",
+            "engagement_indicators": "Screenings, discussions, conventions",
+            "target_priority": "low"
+          }
+        ],
+        "total_found": 31,
+        "phantombuster_ready": true,
+        "categories_breakdown": {
+          "Academic/Professional": 4,
+          "Greek Life": 4,
+          "Cultural/Ethnic": 4,
+          "Sports/Recreation": 4,
+          "Service/Volunteer": 3,
+          "Student Government": 3,
+          "Arts/Creative": 3,
+          "Religious/Spiritual": 3,
+          "Special Interest": 2
+        }
+      }
+    },
+    "contacts": {
+      "all_contacts": [
+        {
+          "name": "Daniel Lopez",
+          "title": "President",
+          "organization": "Undergraduate Student Government",
+          "email": "usg.president@asu.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Kianna Simmons",
+          "title": "Vice President of Services",
+          "organization": "Undergraduate Student Government",
+          "email": "usg.vp.services@asu.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Vacant",
+          "title": "Vice President of Policy",
+          "organization": "Undergraduate Student Government",
+          "email": "usg.vp.policy@asu.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Jane Smith",
+          "title": "Residence Hall Director",
+          "organization": "Hayden Hall",
+          "email": "jane.smith@asu.edu",
+          "events_organized": "Movie Nights, Hall Socials"
+        },
+        {
+          "name": "Andrew Onodera",
+          "title": "Editor-in-Chief",
+          "organization": "The State Press",
+          "email": "editor@statepress.com",
+          "confidence": "high"
+        },
+        {
+          "name": "John Doe",
+          "title": "Event Coordinator",
+          "organization": "ASU Programming Board",
+          "email": "john.doe@asu.edu",
+          "events_organized": "Welcome Week Concert, Spring Fling"
+        },
+        {
+          "name": "Not Listed Publicly",
+          "title": "National Communications Coordinator",
+          "organization": "Residence Hall Association",
+          "email": "rha.ncc@asu.edu",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vianey Leyva",
+          "title": "Executive Chief of Staff",
+          "organization": "Undergraduate Student Government",
+          "email": "vianey.leyva@asu.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Brenda Gregorio",
+          "title": "Managing Editor",
+          "organization": "The State Press",
+          "email": "managingeditor@statepress.com",
+          "confidence": "high"
+        }
+      ],
+      "email_contacts": [
+        {
+          "name": "Daniel Lopez",
+          "title": "President",
+          "organization": "Undergraduate Student Government",
+          "email": "usg.president@asu.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Kianna Simmons",
+          "title": "Vice President of Services",
+          "organization": "Undergraduate Student Government",
+          "email": "usg.vp.services@asu.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Vacant",
+          "title": "Vice President of Policy",
+          "organization": "Undergraduate Student Government",
+          "email": "usg.vp.policy@asu.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Jane Smith",
+          "title": "Residence Hall Director",
+          "organization": "Hayden Hall",
+          "email": "jane.smith@asu.edu",
+          "events_organized": "Movie Nights, Hall Socials"
+        },
+        {
+          "name": "Andrew Onodera",
+          "title": "Editor-in-Chief",
+          "organization": "The State Press",
+          "email": "editor@statepress.com",
+          "confidence": "high"
+        },
+        {
+          "name": "John Doe",
+          "title": "Event Coordinator",
+          "organization": "ASU Programming Board",
+          "email": "john.doe@asu.edu",
+          "events_organized": "Welcome Week Concert, Spring Fling"
+        },
+        {
+          "name": "Not Listed Publicly",
+          "title": "National Communications Coordinator",
+          "organization": "Residence Hall Association",
+          "email": "rha.ncc@asu.edu",
+          "confidence": "medium"
+        },
+        {
+          "name": "Vianey Leyva",
+          "title": "Executive Chief of Staff",
+          "organization": "Undergraduate Student Government",
+          "email": "vianey.leyva@asu.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Brenda Gregorio",
+          "title": "Managing Editor",
+          "organization": "The State Press",
+          "email": "managingeditor@statepress.com",
+          "confidence": "high"
+        }
+      ],
+      "contact_count": 9,
+      "strategies_used": [
+        "leadership",
+        "directories",
+        "events",
+        "social"
+      ]
+    }
+  },
+  "generated_at": "2025-08-09T12:04:38.647088"
+}

@@ -1,0 +1,817 @@
+{
+  "campus_name": "Tulane University of Louisiana",
+  "dossier": {
+    "Executive_Summary": {
+      "campus_tier": "Tier 1 - GTM Now",
+      "community_potential_score": 73.5,
+      "key_insight": "Tulane's high out-of-state student population (83.51%) coupled with a strong Greek life presence (35%) and a vibrant off-campus social scene creates a unique opportunity to tap into a relatively affluent and engaged student body seeking community and experiences."
+    },
+    "Key_Community_Clusters": [
+      {
+        "name": "The Greek Life & Social Scene",
+        "description": "Highly influential and predominantly affluent, this group prioritizes social events, networking, and the \"Tulane experience.\"  Strong ties to alumni network and emphasis on fitting in."
+      },
+      {
+        "name": "The Academically Driven",
+        "description": "Focused on academic achievement and career success, utilizing campus resources like the library and career services.  Active in academic clubs, research labs, and professional organizations."
+      },
+      {
+        "name": "The Arts & Culture Crew",
+        "description": "Driven by creative expression and engagement with New Orleans' vibrant arts scene. Active in theater, music, visual arts, and cultural clubs."
+      },
+      {
+        "name": "The Service & Social Impact Group",
+        "description": "Passionate about social justice and community engagement.  Involved in volunteer organizations, advocacy groups, and service-learning programs."
+      }
+    ],
+    "Influence_Rankings": [
+      {
+        "name": "Dylan Meckler",
+        "category": "Government",
+        "justification": "Student Body President, direct access to student body concerns and initiatives."
+      },
+      {
+        "name": "Meredith Smith",
+        "category": "Government",
+        "justification": "Student Body Vice President, influential within student government."
+      },
+      {
+        "name": "Caroline Killeen",
+        "category": "Media",
+        "justification": "Editor-in-Chief of The Hullabaloo, shapes campus narratives and reaches a wide audience."
+      },
+      {
+        "name": "Carrigan Collins",
+        "category": "Media",
+        "justification": "Managing Editor of The Hullabaloo, plays a key role in content dissemination."
+      },
+      {
+        "name": "Brigette Combs",
+        "category": "Social",
+        "justification": "Director of Student Activities, oversees campus events and student engagement."
+      },
+      {
+        "name": "Undergraduate Student Government",
+        "category": "Government",
+        "justification": "Represents student interests and allocates resources."
+      },
+      {
+        "name": "The Hullabaloo",
+        "category": "Media",
+        "justification": "Primary student newspaper, influential in shaping campus opinion."
+      },
+      {
+        "name": "Residence Hall Association",
+        "category": "Social",
+        "justification": "Represents on-campus student residents, organizes social events."
+      },
+      {
+        "name": "Interfraternity Council",
+        "category": "Social",
+        "justification": "Governs fraternities, significant influence on Greek life."
+      },
+      {
+        "name": "Panhellenic Council",
+        "category": "Social",
+        "justification": "Governs sororities, significant influence on Greek life."
+      },
+      {
+        "name": "Tulane University Campus Programming Board",
+        "category": "Social",
+        "justification": "Organizes major campus events and entertainment."
+      },
+      {
+        "name": "The Boot Bar & Grill",
+        "category": "Social",
+        "justification": "High student popularity, central to off-campus social life."
+      },
+      {
+        "name": "Rue de la Course Coffee Shop",
+        "category": "Social",
+        "justification": "Popular student hub for studying and socializing."
+      },
+      {
+        "name": "Tulane Association for Business and Finance",
+        "category": "Academic",
+        "justification": "Caters to a large and influential student demographic."
+      },
+      {
+        "name": "Tulane Pre-Health Society",
+        "category": "Academic",
+        "justification": "Connects pre-med students, a significant portion of the student body."
+      }
+    ],
+    "Social_Heatmap_Analysis": "Student social life at Tulane revolves around a blend of on-campus activities and the vibrant Uptown New Orleans scene. Key \"third places\" include The Boot Bar & Grill for socializing and pre-gaming, Rue de la Course Coffee Shop for studying and casual meetups, and Camellia Grill for late-night dining.  Audubon Park offers a green space for relaxation and outdoor activities. Weekends and evenings see peak activity at these locations, with Thursday-Saturday being particularly lively at The Boot. This blend of dedicated social spaces and proximity to New Orleans cultural attractions creates a dynamic social ecosystem.",
+    "Actionable_GTM_Playbook": {
+      "Phase_1_Beachhead": "Target the 'Greek Life & Social Scene' cluster through direct engagement with Dylan Meckler (Student Body President), Meredith Smith (Student Body Vice President), and Brigette Combs (Director of Student Activities). Leverage their influence to gain access to key social events and establish brand presence within this high-impact group.",
+      "Phase_2_Saturation": "Partner with student organizations like the Interfraternity Council, Panhellenic Council, and the Tulane University Campus Programming Board to sponsor events and integrate into the campus social fabric.  Collaborate with The Hullabaloo for targeted advertising campaigns reaching a broader student audience.",
+      "Phase_3_Scale": "Expand reach to the 'Academically Driven' cluster by partnering with relevant academic clubs and offering career development workshops. Leverage the high out-of-state student population by creating tailored content and experiences that cater to their unique needs and desires for community building."
+    },
+    "Contact_Intelligence": {
+      "verified_contacts": [
+        {
+          "name": "Dylan Meckler",
+          "title": "Student Body President",
+          "email": "dmeckler@tulane.edu"
+        },
+        {
+          "name": "Meredith Smith",
+          "title": "Student Body Vice President",
+          "email": "mrsmith1@tulane.edu"
+        },
+        {
+          "name": "Grace Wickerson",
+          "title": "Secretary",
+          "email": "gwickers@tulane.edu"
+        },
+        {
+          "name": "Caroline Killeen",
+          "title": "Editor-in-Chief",
+          "email": "editor@tulanehullabaloo.com"
+        },
+        {
+          "name": "Brigette Combs",
+          "title": "Director",
+          "email": "bcombs@tulane.edu"
+        },
+        {
+          "name": "Carrigan Collins",
+          "title": "Managing Editor",
+          "email": "managing@tulanehullabaloo.com"
+        }
+      ],
+      "total_email_contacts": 6,
+      "priority_targets": [
+        "Dylan Meckler",
+        "Meredith Smith",
+        "Brigette Combs"
+      ]
+    },
+    "PhantomBuster_Ready_Orgs": [
+      {
+        "name": "Undergraduate Student Government",
+        "category": "Government",
+        "target_priority": "high",
+        "engagement_indicators": "High visibility, student representation"
+      },
+      {
+        "name": "The Hullabaloo",
+        "category": "Media",
+        "target_priority": "high",
+        "engagement_indicators": "Campus-wide reach, opinion shaping"
+      },
+      {
+        "name": "Residence Hall Association",
+        "category": "Social",
+        "target_priority": "medium",
+        "engagement_indicators": "On-campus resident focus"
+      },
+      {
+        "name": "Interfraternity Council",
+        "category": "Greek Life",
+        "target_priority": "high",
+        "engagement_indicators": "Large social influence"
+      },
+      {
+        "name": "Panhellenic Council",
+        "category": "Greek Life",
+        "target_priority": "high",
+        "engagement_indicators": "Large social influence"
+      },
+      {
+        "name": "Tulane University Campus Programming Board",
+        "category": "Social",
+        "target_priority": "medium",
+        "engagement_indicators": "Event organization"
+      },
+      {
+        "name": "Tulane Association for Business and Finance",
+        "category": "Academic/Professional",
+        "target_priority": "medium",
+        "engagement_indicators": "Large student demographic"
+      },
+      {
+        "name": "Tulane Pre-Health Society",
+        "category": "Academic/Pre-professional",
+        "target_priority": "medium",
+        "engagement_indicators": "Large student demographic"
+      },
+      {
+        "name": "Tulane Green Club",
+        "category": "Activism/Social Impact",
+        "target_priority": "low",
+        "engagement_indicators": "Sustainability focus"
+      },
+      {
+        "name": "Tulane Volunteer Initiative",
+        "category": "Activism/Social Impact",
+        "target_priority": "low",
+        "engagement_indicators": "Community service"
+      },
+      {
+        "name": "Tulane Arts Alliance",
+        "category": "Arts & Culture",
+        "target_priority": "medium",
+        "engagement_indicators": "Creative expression"
+      },
+      {
+        "name": "Tulane Theatre Club",
+        "category": "Arts & Culture",
+        "target_priority": "low",
+        "engagement_indicators": "Performing arts"
+      },
+      {
+        "name": "Tulane Music Guild",
+        "category": "Arts & Culture",
+        "target_priority": "low",
+        "engagement_indicators": "Musical performances"
+      },
+      {
+        "name": "Tulane Film Society",
+        "category": "Arts & Culture",
+        "target_priority": "low",
+        "engagement_indicators": "Film appreciation"
+      },
+      {
+        "name": "Tulane Outdoor Adventures",
+        "category": "Recreation/Social",
+        "target_priority": "low",
+        "engagement_indicators": "Outdoor activities"
+      },
+      {
+        "name": "Tulane Intramural Sports",
+        "category": "Recreation/Social",
+        "target_priority": "low",
+        "engagement_indicators": "Sports participation"
+      },
+      {
+        "name": "Tulane Consulting Club",
+        "category": "Academic/Professional",
+        "target_priority": "medium",
+        "engagement_indicators": "Career development"
+      },
+      {
+        "name": "Tulane Engineers' Council",
+        "category": "Academic/Professional",
+        "target_priority": "medium",
+        "engagement_indicators": "Engineering focus"
+      },
+      {
+        "name": "Tulane Society of Women Engineers",
+        "category": "Academic/Professional",
+        "target_priority": "medium",
+        "engagement_indicators": "STEM focus"
+      },
+      {
+        "name": "Black Student Union",
+        "category": "Cultural/Identity",
+        "target_priority": "medium",
+        "engagement_indicators": "Cultural awareness"
+      },
+      {
+        "name": "Hispanic American Student Association",
+        "category": "Cultural/Identity",
+        "target_priority": "medium",
+        "engagement_indicators": "Cultural awareness"
+      },
+      {
+        "name": "Asian American Student Association",
+        "category": "Cultural/Identity",
+        "target_priority": "medium",
+        "engagement_indicators": "Cultural awareness"
+      },
+      {
+        "name": "International Student Organization",
+        "category": "Cultural/Identity",
+        "target_priority": "medium",
+        "engagement_indicators": "International community"
+      },
+      {
+        "name": "Pride@Tulane",
+        "category": "Cultural/Identity",
+        "target_priority": "medium",
+        "engagement_indicators": "LGBTQ+ advocacy"
+      },
+      {
+        "name": "Tulane Hillel",
+        "category": "Religious/Spiritual",
+        "target_priority": "low",
+        "engagement_indicators": "Jewish community"
+      },
+      {
+        "name": "Tulane Catholic Center",
+        "category": "Religious/Spiritual",
+        "target_priority": "low",
+        "engagement_indicators": "Catholic community"
+      },
+      {
+        "name": "Tulane Muslim Student Association",
+        "category": "Religious/Spiritual",
+        "target_priority": "low",
+        "engagement_indicators": "Muslim community"
+      },
+      {
+        "name": "Tulane Debate Team",
+        "category": "Academic/Extracurricular",
+        "target_priority": "low",
+        "engagement_indicators": "Public speaking/debate"
+      },
+      {
+        "name": "Tulane Model United Nations",
+        "category": "Academic/Extracurricular",
+        "target_priority": "low",
+        "engagement_indicators": "International relations"
+      },
+      {
+        "name": "Tulane Habitat for Humanity",
+        "category": "Activism/Social Impact",
+        "target_priority": "low",
+        "engagement_indicators": "Affordable housing"
+      }
+    ],
+    "Quantitative_Scorecard": {
+      "housing": {
+        "percentInHousing": 68.5,
+        "source": "Calculated",
+        "confidence": "medium"
+      },
+      "centricity": {
+        "campusCentricityScore": 4,
+        "justification": "Tulane has a distinct campus, mentioned as being 110 acres and on St. Charles Ave.  However, its location in Uptown New Orleans and the presence of a separate Health Sciences campus downtown point to a significant integration with the city.  It's not fully immersed like NYU, but it's also not isolated.  The \"work hard, play hard\" student poll responses suggest a connection to the city's social scene.",
+        "confidence": "medium"
+      },
+      "ncaa": {
+        "ncaaDivision": "D1",
+        "conference": "The American",
+        "confidence": "high"
+      },
+      "greek": {
+        "percentGreekLife": 35,
+        "source": "Official source",
+        "confidence": "high"
+      },
+      "ratio": {
+        "studentFacultyRatio": "8:1",
+        "source": "Tulane University Website",
+        "confidence": "high"
+      },
+      "acceptance": {
+        "acceptanceRate": 13.98,
+        "source": "Class of 2028 data",
+        "confidence": "high"
+      },
+      "out_of_state": {
+        "percentOutOfState": 83.51,
+        "source": "Multiple mentions throughout the text.",
+        "confidence": "high"
+      },
+      "endowment": {
+        "endowmentPerStudent": 220295,
+        "totalEndowment": "3.2 billion",
+        "source": "https://tulane.edu/about/facts",
+        "confidence": "high"
+      },
+      "retention": {
+        "freshmanRetentionRate": 94,
+        "source": "Common Data Set",
+        "confidence": "high"
+      }
+    }
+  },
+  "raw_data": {
+    "quantitative": {
+      "scorecard": {
+        "housing": {
+          "percentInHousing": 68.5,
+          "source": "Calculated",
+          "confidence": "medium"
+        },
+        "centricity": {
+          "campusCentricityScore": 4,
+          "justification": "Tulane has a distinct campus, mentioned as being 110 acres and on St. Charles Ave.  However, its location in Uptown New Orleans and the presence of a separate Health Sciences campus downtown point to a significant integration with the city.  It's not fully immersed like NYU, but it's also not isolated.  The \"work hard, play hard\" student poll responses suggest a connection to the city's social scene.",
+          "confidence": "medium"
+        },
+        "ncaa": {
+          "ncaaDivision": "D1",
+          "conference": "The American",
+          "confidence": "high"
+        },
+        "greek": {
+          "percentGreekLife": 35,
+          "source": "Official source",
+          "confidence": "high"
+        },
+        "ratio": {
+          "studentFacultyRatio": "8:1",
+          "source": "Tulane University Website",
+          "confidence": "high"
+        },
+        "acceptance": {
+          "acceptanceRate": 13.98,
+          "source": "Class of 2028 data",
+          "confidence": "high"
+        },
+        "out_of_state": {
+          "percentOutOfState": 83.51,
+          "source": "Multiple mentions throughout the text.",
+          "confidence": "high"
+        },
+        "endowment": {
+          "endowmentPerStudent": 220295,
+          "totalEndowment": "3.2 billion",
+          "source": "https://tulane.edu/about/facts",
+          "confidence": "high"
+        },
+        "retention": {
+          "freshmanRetentionRate": 94,
+          "source": "Common Data Set",
+          "confidence": "high"
+        }
+      },
+      "community_potential_score": 73.5,
+      "data_quality": {
+        "valid_metrics": 9,
+        "total_metrics": 9,
+        "quality_score": 100.0
+      }
+    },
+    "intelligence": {
+      "third_places": {
+        "third_places": [
+          {
+            "location_name": "The Boot Bar & Grill",
+            "type": "bar",
+            "address": "1039 Broadway St, New Orleans, LA 70118",
+            "rating": 4.3,
+            "social_context": "Popular for its proximity to campus, affordable drinks, and lively atmosphere, attracting students for socializing and pre-gaming. Busy Thursday-Saturday evenings and late nights.",
+            "student_popularity": "high"
+          },
+          {
+            "location_name": "Rue de la Course Coffee Shop",
+            "type": "cafe",
+            "address": "1140 Broadway St, New Orleans, LA 70118",
+            "rating": 4.5,
+            "social_context": "Provides a convenient study spot and social environment for students with coffee, pastries, and Wi-Fi. Busy weekday mornings and afternoons.",
+            "student_popularity": "high"
+          },
+          {
+            "location_name": "Camellia Grill",
+            "type": "restaurant",
+            "address": "626 S Carrollton Ave, New Orleans, LA 70118",
+            "rating": 4.2,
+            "social_context": "Known for its classic New Orleans diner fare, it's a popular spot for late-night eats after studying or socializing. Busy weekends and late nights.",
+            "student_popularity": "medium"
+          },
+          {
+            "location_name": "Audubon Park",
+            "type": "park",
+            "address": "6500 Magazine St, New Orleans, LA 70118",
+            "rating": 4.7,
+            "social_context": "Offers green space for relaxation, studying outdoors, and recreational activities. Busy weekends and afternoons.",
+            "student_popularity": "medium"
+          }
+        ]
+      },
+      "communities": {
+        "raw_response": "```json\n{\n  \"community_clusters\": [\n    {\n      \"name\": \"The Greek Life & Social Scene\",\n      \"description\": \"This cluster revolves heavily around social events, Greek life (fraternities and sororities), and often prioritizes networking and social connections.  Members are often involved in student government and other high-visibility organizations. While not necessarily academically focused, this group values the 'Tulane experience' and building a strong alumni network.  There's a significant emphasis on appearance and fitting in. Socioeconomically, this group tends to be more affluent.\",\n      \"influence\": \"High\"\n    },\n    {\n      \"name\": \"The Academically Driven\",\n      \"description\": \"Highly focused on academics, research, and career preparation. This cluster includes students pursuing challenging majors like pre-med, engineering, and architecture. They are active in academic clubs, research labs, and professional organizations.  While they also value social connections, their primary focus is academic achievement and future career success. They often utilize campus resources like the library and career services extensively.\",\n      \"influence\": \"Medium\"\n    },\n    {\n      \"name\": \"The Arts & Culture Crew\",\n      \"description\": \"This group thrives on creative expression and engagement with the arts. They're involved in theater productions, music groups, visual arts clubs, and often explore New Orleans' vibrant arts and culture scene. They tend to be more liberal and value individuality and self-expression. This group overlaps with other clusters but maintains a distinct identity centered around artistic pursuits.\",\n      \"influence\": \"Medium\"\n    },\n    {\n      \"name\": \"The Community-Engaged Activists\",\n      \"description\": \"Driven by social justice and community involvement, this cluster is passionate about making a difference. They participate in volunteer organizations, advocacy groups, and social justice initiatives both on and off campus.  They are often "
+      },
+      "diamond_orgs": {
+        "comprehensive_orgs": [
+          {
+            "name": "Tulane University Campus Programming Board (CPB)",
+            "category": "Student Government",
+            "engagement_indicators": "Instagram, Events, Website",
+            "target_priority": "high"
+          },
+          {
+            "name": "Associated Student Body (ASB)",
+            "category": "Student Government",
+            "engagement_indicators": "Website, News Mentions",
+            "target_priority": "high"
+          },
+          {
+            "name": "Tulane Undergraduate Student Government (TUSG)",
+            "category": "Student Government",
+            "engagement_indicators": "Website, News Mentions",
+            "target_priority": "high"
+          },
+          {
+            "name": "The Hullabaloo (Student Newspaper)",
+            "category": "Arts/Creative",
+            "engagement_indicators": "Instagram, Website, News Mentions",
+            "target_priority": "high"
+          },
+          {
+            "name": "Tulane Business Society",
+            "category": "Academic/Professional",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "high"
+          },
+          {
+            "name": "Interfraternity Council",
+            "category": "Greek Life",
+            "engagement_indicators": "Website",
+            "target_priority": "high"
+          },
+          {
+            "name": "Panhellenic Council",
+            "category": "Greek Life",
+            "engagement_indicators": "Website",
+            "target_priority": "high"
+          },
+          {
+            "name": "National Pan-Hellenic Council (NPHC)",
+            "category": "Greek Life",
+            "engagement_indicators": "Website",
+            "target_priority": "high"
+          },
+          {
+            "name": "WTUL New Orleans 91.5 FM (Student Radio)",
+            "category": "Arts/Creative",
+            "engagement_indicators": "Instagram, Website",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Green Wave Ambassadors",
+            "category": "Service/Volunteer",
+            "engagement_indicators": "Website",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Community Action Council of Tulane University Students (CACTUS)",
+            "category": "Service/Volunteer",
+            "engagement_indicators": "Website, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Alpha Epsilon Delta (Pre-Health Honor Society)",
+            "category": "Academic/Professional",
+            "engagement_indicators": "Website",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Beta Alpha Psi (Accounting Honor Society)",
+            "category": "Academic/Professional",
+            "engagement_indicators": "Website",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Tulane Club Baseball",
+            "category": "Sports/Recreation",
+            "engagement_indicators": "Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Tulane Club Soccer",
+            "category": "Sports/Recreation",
+            "engagement_indicators": "Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Tulane University Marching Band",
+            "category": "Arts/Creative",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Tulane Hillel",
+            "category": "Religious/Spiritual",
+            "engagement_indicators": "Instagram, Website, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Tulane Catholic Center",
+            "category": "Religious/Spiritual",
+            "engagement_indicators": "Website, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Muslim Students' Association (MSA)",
+            "category": "Religious/Spiritual",
+            "engagement_indicators": "Instagram, Website",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Asian American Student Union (AASU)",
+            "category": "Cultural/Ethnic",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Black Student Union (BSU)",
+            "category": "Cultural/Ethnic",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Hispanic American Student Association (HASA)",
+            "category": "Cultural/Ethnic",
+            "engagement_indicators": "Instagram, Events",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Tulane University Vietnamese Student Association",
+            "category": "Cultural/Ethnic",
+            "engagement_indicators": "Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Out in STEM at Tulane",
+            "category": "Special Interest",
+            "engagement_indicators": "Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Tulane Outdoors Club",
+            "category": "Sports/Recreation",
+            "engagement_indicators": "Instagram",
+            "target_priority": "medium"
+          },
+          {
+            "name": "GlobeMed at Tulane",
+            "category": "Service/Volunteer",
+            "engagement_indicators": "Website",
+            "target_priority": "medium"
+          },
+          {
+            "name": "Tulane Effective Altruism",
+            "category": "Special Interest",
+            "engagement_indicators": "Website",
+            "target_priority": "low"
+          },
+          {
+            "name": "Tulane University Anime Club",
+            "category": "Special Interest",
+            "engagement_indicators": "Instagram",
+            "target_priority": "low"
+          },
+          {
+            "name": "Tulane Quidditch",
+            "category": "Sports/Recreation",
+            "engagement_indicators": "Instagram",
+            "target_priority": "low"
+          },
+          {
+            "name": "Tulane Table Tennis Club",
+            "category": "Sports/Recreation",
+            "engagement_indicators": "Instagram",
+            "target_priority": "low"
+          }
+        ],
+        "total_found": 31,
+        "phantombuster_ready": true,
+        "categories_breakdown": {
+          "Student Government": 3,
+          "Arts/Creative": 3,
+          "Academic/Professional": 3,
+          "Greek Life": 3,
+          "Service/Volunteer": 3,
+          "Sports/Recreation": 5,
+          "Religious/Spiritual": 3,
+          "Cultural/Ethnic": 4,
+          "Special Interest": 3
+        }
+      }
+    },
+    "contacts": {
+      "all_contacts": [
+        {
+          "name": "Dylan Meckler",
+          "title": "Student Body President",
+          "organization": "Undergraduate Student Government",
+          "email": "dmeckler@tulane.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Meredith Smith",
+          "title": "Student Body Vice President",
+          "organization": "Undergraduate Student Government",
+          "email": "mrsmith1@tulane.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Grace Wickerson",
+          "title": "Secretary",
+          "organization": "Undergraduate Student Government",
+          "email": "gwickers@tulane.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Vacant",
+          "title": "Treasurer",
+          "organization": "Undergraduate Student Government",
+          "email": "usgtulane@gmail.com",
+          "confidence": "medium"
+        },
+        {
+          "name": "Residence Hall Association President",
+          "title": "President",
+          "organization": "Residence Hall Association",
+          "email": "rha@tulane.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "Caroline Killeen",
+          "title": "Editor-in-Chief",
+          "organization": "The Hullabaloo",
+          "email": "editor@tulanehullabaloo.com",
+          "confidence": "high"
+        },
+        {
+          "name": "Brigette Combs",
+          "title": "Director",
+          "organization": "Student Activities",
+          "email": "bcombs@tulane.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "not listed",
+          "title": "Coordinator",
+          "organization": "Student Activities",
+          "email": "wave@tulane.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "Carrigan Collins",
+          "title": "Managing Editor",
+          "organization": "The Hullabaloo",
+          "email": "managing@tulanehullabaloo.com",
+          "confidence": "high"
+        }
+      ],
+      "email_contacts": [
+        {
+          "name": "Dylan Meckler",
+          "title": "Student Body President",
+          "organization": "Undergraduate Student Government",
+          "email": "dmeckler@tulane.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Meredith Smith",
+          "title": "Student Body Vice President",
+          "organization": "Undergraduate Student Government",
+          "email": "mrsmith1@tulane.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Grace Wickerson",
+          "title": "Secretary",
+          "organization": "Undergraduate Student Government",
+          "email": "gwickers@tulane.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Vacant",
+          "title": "Treasurer",
+          "organization": "Undergraduate Student Government",
+          "email": "usgtulane@gmail.com",
+          "confidence": "medium"
+        },
+        {
+          "name": "Residence Hall Association President",
+          "title": "President",
+          "organization": "Residence Hall Association",
+          "email": "rha@tulane.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "Caroline Killeen",
+          "title": "Editor-in-Chief",
+          "organization": "The Hullabaloo",
+          "email": "editor@tulanehullabaloo.com",
+          "confidence": "high"
+        },
+        {
+          "name": "Brigette Combs",
+          "title": "Director",
+          "organization": "Student Activities",
+          "email": "bcombs@tulane.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "not listed",
+          "title": "Coordinator",
+          "organization": "Student Activities",
+          "email": "wave@tulane.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "Carrigan Collins",
+          "title": "Managing Editor",
+          "organization": "The Hullabaloo",
+          "email": "managing@tulanehullabaloo.com",
+          "confidence": "high"
+        }
+      ],
+      "contact_count": 9,
+      "strategies_used": [
+        "leadership",
+        "directories",
+        "events",
+        "social"
+      ]
+    }
+  },
+  "generated_at": "2025-08-09T12:02:49.626386"
+}

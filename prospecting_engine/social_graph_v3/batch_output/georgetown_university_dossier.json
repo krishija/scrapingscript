@@ -1,0 +1,578 @@
+{
+  "campus_name": "Georgetown University",
+  "dossier": {
+    "Executive_Summary": {
+      "campus_tier": "Tier 1 - GTM Now",
+      "community_potential_score": 55.2,
+      "key_insight": "Georgetown's high academic prestige, combined with its location in D.C. and a vibrant social scene, creates a unique opportunity to engage a highly driven and influential student body with significant future potential."
+    },
+    "Key_Community_Clusters": [
+      "The Hilltop High Achievers",
+      "The Socially Conscious Activists",
+      "The Georgetown Socialites",
+      "The Arts & Culture Crew"
+    ],
+    "Influence_Rankings": [
+      {
+        "name": "Georgetown University Student Association (GUSA)",
+        "category": "Government",
+        "justification": "Represents the entire student body, controls budgets, and influences university policy."
+      },
+      {
+        "name": "The Hoya",
+        "category": "Media",
+        "justification": "Primary news source for campus, shapes public opinion and discourse."
+      },
+      {
+        "name": "Residence Hall Association (RHA)",
+        "category": "Social",
+        "justification": "Direct access to on-campus residents, organizes social events and programs."
+      },
+      {
+        "name": "Ryan Ritter (GUSA President)",
+        "category": "Government",
+        "justification": "Key decision-maker and representative of student interests."
+      },
+      {
+        "name": "Caleb Richmond (The Hoya Editor-in-Chief)",
+        "category": "Media",
+        "justification": "Controls editorial direction of campus news, sets the agenda for campus discussions."
+      },
+      {
+        "name": "Georgetown Program Board",
+        "category": "Social",
+        "justification": "Organizes major campus-wide events, concerts, and entertainment."
+      },
+      {
+        "name": "Georgetown University Grilling Society (GUGS)",
+        "category": "Social",
+        "justification": "Highly visible and popular social organization, large membership and event attendance."
+      },
+      {
+        "name": "Georgetown Esports",
+        "category": "Social/Academic",
+        "justification": "Growing interest in esports provides access to a dedicated and engaged student community."
+      },
+      {
+        "name": "The Corp",
+        "category": "Social/Business",
+        "justification": "Student-run businesses on campus provide valuable networking and entrepreneurial experience."
+      },
+      {
+        "name": "Performing Arts Clubs (Mask & Bauble, Georgetown Players, etc.)",
+        "category": "Arts & Culture",
+        "justification": "Reach a significant audience through performances and events."
+      },
+      {
+        "name": "GUASFCU",
+        "category": "Academic/Financial",
+        "justification": "Student-run credit union provides financial literacy and services to the campus community."
+      },
+      {
+        "name": "Various Academic Clubs (e.g., International Relations Club, Finance Club)",
+        "category": "Academic",
+        "justification": "Cater to specific academic interests and connect students with professionals in their fields."
+      },
+      {
+        "name": "Club Sports Teams",
+        "category": "Athletic",
+        "justification": "Offer a competitive and social outlet for students passionate about specific sports."
+      },
+      {
+        "name": "Greek Life Organizations",
+        "category": "Social",
+        "justification": "Significant social influence, though only 10% involvement, reaches a specific demographic."
+      },
+      {
+        "name": "Campus Ministry",
+        "category": "Social/Spiritual",
+        "justification": "Provides support and community for students seeking spiritual guidance and engagement."
+      }
+    ],
+    "Social_Heatmap_Analysis": "Georgetown's social scene revolves around key third places like Saxby's Coffee for casual study and socializing, and Chaia for group meals. The Tombs serves as a central hub for social gatherings and nightlife.  Weekday activity concentrates around academic buildings and cafes, transitioning to bars and restaurants in the evenings and on weekends. Leveraging these locations and peak times is critical for effective GTM strategies.",
+    "Actionable_GTM_Playbook": {
+      "Phase_1_Beachhead": "Target the \"Hilltop High Achievers\" through GUSA and The Hoya.  Contact Ryan Ritter (GUSA President) and Caleb Richmond (The Hoya Editor-in-Chief) to explore partnerships and gain access to their networks. Engage with student organizations like the Finance Club and the International Relations Club.",
+      "Phase_2_Saturation": "Expand outreach to the \"Socially Conscious Activists\" and \"The Georgetown Socialites\" by partnering with relevant student organizations (e.g., environmental groups, Greek life organizations). Host events at popular third places like Saxby's and The Tombs. Leverage GUSA's influence for broader campus reach.",
+      "Phase_3_Scale": "Develop long-term partnerships with key student organizations and establish a consistent presence on campus. Create targeted campaigns for specific communities (e.g., arts and culture, esports). Leverage the high retention rate (94%) to build brand loyalty and create a sustainable user base."
+    },
+    "Contact_Intelligence": {
+      "verified_contacts": [
+        {
+          "name": "Ryan Ritter",
+          "title": "President",
+          "organization": "GUSA",
+          "email": "gusaexec@georgetown.edu"
+        },
+        {
+          "name": "Caleb Richmond",
+          "title": "Editor-in-Chief",
+          "organization": "The Hoya",
+          "email": "editor@thehoya.com"
+        },
+        {
+          "name": "Unknown",
+          "title": "President",
+          "organization": "Residence Hall Association (RHA)",
+          "email": "rha@georgetown.edu"
+        },
+        {
+          "name": "Unknown",
+          "title": "Director or Coordinator",
+          "organization": "Student Activities",
+          "email": "studentengagement@georgetown.edu"
+        },
+        {
+          "name": "Vacant/Unknown",
+          "title": "Managing Editor",
+          "organization": "The Hoya",
+          "email": "managingeditor@thehoya.com"
+        }
+      ],
+      "total_email_contacts": 5,
+      "priority_targets": [
+        "Ryan Ritter",
+        "Caleb Richmond",
+        "RHA President",
+        "Student Activities Director/Coordinator"
+      ]
+    },
+    "PhantomBuster_Ready_Orgs": [
+      {
+        "name": "Georgetown University Student Association",
+        "category": "Government",
+        "target_priority": "high",
+        "engagement_indicators": "High follower count, active posting schedule"
+      },
+      {
+        "name": "The Hoya",
+        "category": "Media",
+        "target_priority": "high",
+        "engagement_indicators": "Wide reach, influential voice on campus"
+      },
+      {
+        "name": "Residence Hall Association",
+        "category": "Social",
+        "target_priority": "high",
+        "engagement_indicators": "Direct connection to student residents"
+      },
+      {
+        "name": "Georgetown Program Board",
+        "category": "Social",
+        "target_priority": "medium",
+        "engagement_indicators": "Organizes large events"
+      },
+      {
+        "name": "Georgetown Grilling Society",
+        "category": "Social",
+        "target_priority": "medium",
+        "engagement_indicators": "Popular, high visibility"
+      },
+      {
+        "name": "Georgetown Esports",
+        "category": "Social/Academic",
+        "target_priority": "medium",
+        "engagement_indicators": "Growing community"
+      },
+      {
+        "name": "The Corp",
+        "category": "Social/Business",
+        "target_priority": "medium",
+        "engagement_indicators": "Entrepreneurial focus"
+      },
+      {
+        "name": "Mask & Bauble Dramatic Society",
+        "category": "Arts",
+        "target_priority": "low",
+        "engagement_indicators": "Niche audience"
+      },
+      {
+        "name": "Georgetown Players",
+        "category": "Arts",
+        "target_priority": "low",
+        "engagement_indicators": "Niche audience"
+      },
+      {
+        "name": "GUASFCU",
+        "category": "Financial",
+        "target_priority": "low",
+        "engagement_indicators": "Specialized service"
+      },
+      {
+        "name": "Georgetown International Relations Club",
+        "category": "Academic",
+        "target_priority": "low",
+        "engagement_indicators": "Specific academic interest"
+      },
+      {
+        "name": "Georgetown Finance Club",
+        "category": "Academic",
+        "target_priority": "low",
+        "engagement_indicators": "Specific academic interest"
+      },
+      {
+        "name": "Georgetown Club Soccer",
+        "category": "Athletic",
+        "target_priority": "low",
+        "engagement_indicators": "Sports enthusiasts"
+      },
+      {
+        "name": "Georgetown Club Basketball",
+        "category": "Athletic",
+        "target_priority": "low",
+        "engagement_indicators": "Sports enthusiasts"
+      },
+      {
+        "name": "Georgetown Women's Rugby",
+        "category": "Athletic",
+        "target_priority": "low",
+        "engagement_indicators": "Sports enthusiasts"
+      },
+      {
+        "name": "Georgetown College Democrats",
+        "category": "Political",
+        "target_priority": "medium",
+        "engagement_indicators": "Politically active students"
+      },
+      {
+        "name": "Georgetown College Republicans",
+        "category": "Political",
+        "target_priority": "medium",
+        "engagement_indicators": "Politically active students"
+      },
+      {
+        "name": "Georgetown University Performing Arts Ensemble",
+        "category": "Arts",
+        "target_priority": "low",
+        "engagement_indicators": "Music and performance"
+      },
+      {
+        "name": "Georgetown University Chamber Singers",
+        "category": "Arts",
+        "target_priority": "low",
+        "engagement_indicators": "Music and performance"
+      },
+      {
+        "name": "Georgetown University Orchestra",
+        "category": "Arts",
+        "target_priority": "low",
+        "engagement_indicators": "Music and performance"
+      },
+      {
+        "name": "Georgetown Amateur Astronomy Club",
+        "category": "Academic",
+        "target_priority": "low",
+        "engagement_indicators": "Niche academic interest"
+      },
+      {
+        "name": "Georgetown Entrepreneurship Initiative",
+        "category": "Business",
+        "target_priority": "medium",
+        "engagement_indicators": "Focus on startups and innovation"
+      },
+      {
+        "name": "Georgetown Consulting Club",
+        "category": "Business",
+        "target_priority": "medium",
+        "engagement_indicators": "Career-focused"
+      },
+      {
+        "name": "Georgetown Marketing Club",
+        "category": "Business",
+        "target_priority": "medium",
+        "engagement_indicators": "Career-focused"
+      },
+      {
+        "name": "Georgetown Investment Banking Club",
+        "category": "Business",
+        "target_priority": "medium",
+        "engagement_indicators": "Career-focused"
+      },
+      {
+        "name": "Georgetown Volunteer Corps",
+        "category": "Community Service",
+        "target_priority": "low",
+        "engagement_indicators": "Socially conscious students"
+      },
+      {
+        "name": "Georgetown Environmental Club",
+        "category": "Activism",
+        "target_priority": "medium",
+        "engagement_indicators": "Focus on environmental issues"
+      },
+      {
+        "name": "Georgetown LGBTQ+ Resource Center",
+        "category": "Diversity & Inclusion",
+        "target_priority": "medium",
+        "engagement_indicators": "Support and advocacy"
+      },
+      {
+        "name": "Georgetown Women's Center",
+        "category": "Diversity & Inclusion",
+        "target_priority": "medium",
+        "engagement_indicators": "Gender equality and empowerment"
+      },
+      {
+        "name": "Alpha Phi Omega",
+        "category": "Community Service",
+        "target_priority": "low",
+        "engagement_indicators": "National service fraternity"
+      }
+    ],
+    "Quantitative_Scorecard": {
+      "housing": {
+        "percentInHousing": 45.5,
+        "source": "Common Data Set",
+        "confidence": "high"
+      },
+      "centricity": {
+        "campusCentricityScore": 3,
+        "justification": "Georgetown is described as a very walkable neighborhood in Washington, D.C., deeply integrated with public transit and city amenities like restaurants and shops.  The presence of a middle school and bike shares further suggests it's not an isolated campus.",
+        "confidence": "high"
+      },
+      "ncaa": {
+        "ncaaDivision": "D1",
+        "conference": "Big East Conference",
+        "confidence": "high"
+      },
+      "greek": {
+        "percentGreekLife": 10.0,
+        "source": "About 10 percent of Georgetown students participate in Greek life, according to GUSA's website.",
+        "confidence": "high"
+      },
+      "ratio": {
+        "studentFacultyRatio": "11:1",
+        "source": "Multiple sources",
+        "confidence": "high"
+      },
+      "acceptance": {
+        "acceptanceRate": 13.2,
+        "source": "2024-2025 Undergraduate Bulletin | Georgetown University",
+        "confidence": "high"
+      },
+      "out_of_state": {
+        "percentOutOfState": 65.0,
+        "source": "Common Data Set",
+        "confidence": "low"
+      },
+      "endowment": {
+        "endowmentPerStudent": 181250,
+        "totalEndowment": "3.2 billion",
+        "source": "https://finaid.georgetown.edu/facts-figures/",
+        "confidence": "high"
+      },
+      "retention": {
+        "freshmanRetentionRate": 94,
+        "source": "Georgetown Retention Rate webpage",
+        "confidence": "high"
+      }
+    }
+  },
+  "raw_data": {
+    "quantitative": {
+      "scorecard": {
+        "housing": {
+          "percentInHousing": 45.5,
+          "source": "Common Data Set",
+          "confidence": "high"
+        },
+        "centricity": {
+          "campusCentricityScore": 3,
+          "justification": "Georgetown is described as a very walkable neighborhood in Washington, D.C., deeply integrated with public transit and city amenities like restaurants and shops.  The presence of a middle school and bike shares further suggests it's not an isolated campus.",
+          "confidence": "high"
+        },
+        "ncaa": {
+          "ncaaDivision": "D1",
+          "conference": "Big East Conference",
+          "confidence": "high"
+        },
+        "greek": {
+          "percentGreekLife": 10.0,
+          "source": "About 10 percent of Georgetown students participate in Greek life, according to GUSA's website.",
+          "confidence": "high"
+        },
+        "ratio": {
+          "studentFacultyRatio": "11:1",
+          "source": "Multiple sources",
+          "confidence": "high"
+        },
+        "acceptance": {
+          "acceptanceRate": 13.2,
+          "source": "2024-2025 Undergraduate Bulletin | Georgetown University",
+          "confidence": "high"
+        },
+        "out_of_state": {
+          "percentOutOfState": 65.0,
+          "source": "Common Data Set",
+          "confidence": "low"
+        },
+        "endowment": {
+          "endowmentPerStudent": 181250,
+          "totalEndowment": "3.2 billion",
+          "source": "https://finaid.georgetown.edu/facts-figures/",
+          "confidence": "high"
+        },
+        "retention": {
+          "freshmanRetentionRate": 94,
+          "source": "Georgetown Retention Rate webpage",
+          "confidence": "high"
+        }
+      },
+      "community_potential_score": 55.2,
+      "data_quality": {
+        "valid_metrics": 9,
+        "total_metrics": 9,
+        "quality_score": 100.0
+      }
+    },
+    "intelligence": {
+      "communities": {
+        "raw_response": "```json\n{\n  \"community_clusters\": [\n    {\n      \"name\": \"The Hilltop High Achievers\",\n      \"description\": \"Highly driven and academically focused students, often involved in prestigious programs like the Walsh School of Foreign Service, McDonough School of Business, or pre-professional tracks. They prioritize internships, career networking, and achieving high GPAs. They may participate in selective student organizations related to their academic interests.  Often come from privileged backgrounds and are future-oriented.\",\n      \"influence\": \"High\"\n    },\n    {\n      \"name\": \"The Socially Conscious Activists\",\n      \"description\": \"Students passionate about social justice, political advocacy, and community engagement. Active in campus organizations focused on issues like environmentalism, human rights, and diversity/inclusion. They often participate in protests, volunteer work, and engage in critical discussions about societal issues. Influence is often seen through campus discourse and pushing for institutional change.\",\n      \"influence\": \"Medium\"\n    },\n    {\n      \"name\": \"The Georgetown Socialites\",\n      \"description\": \"Students highly involved in the social scene, including Greek life, exclusive clubs, and off-campus parties. They prioritize building social connections and experiencing the vibrant nightlife of Georgetown and DC. This group often overlaps with the \"Hilltop High Achievers,\" but their focus is primarily social. \",\n      \"influence\": \"Medium\"\n    },\n    {\n      \"name\": \"The Arts & Culture Crew\",\n      \"description\": \"Students passionate about creative expression, performing arts, and cultural exploration.  Involved in theater productions, music groups, a cappella, dance, and visual arts. They frequent the Davis Performing Arts Center and engage with the rich cultural offerings of DC.  Influence is primarily within their specific artistic niches and contributes to the campus cultural landscape.\",\n      \"influence\": \"Low\"\n    },\n    {\n      \"name\":"
+      },
+      "third_places": {
+        "third_places": [
+          {
+            "location_name": "Saxby's Coffee",
+            "type": "cafe",
+            "address": "3307 M St NW, Washington, DC 20007",
+            "rating": 4.0,
+            "social_context": "Studying, socializing, grabbing coffee between classes. Popular weekday mornings and afternoons.",
+            "student_popularity": "high"
+          },
+          {
+            "location_name": "Chaia",
+            "type": "restaurant",
+            "address": "3207 Grace St NW, Washington, DC 20007",
+            "rating": 4.5,
+            "social_context": "Casual meals and group outings. Busy during lunch and early evenings.",
+            "student_popularity": "high"
+          },
+          {
+            "location_name": "The Tombs",
+            "type": "bar/restaurant",
+            "address": "1226 36th St NW, Washington, DC 20007",
+            "rating": 4.2,
+            "social_context": "Socializing, celebrating, Georgetown traditions. Popular in the evenings and on weekends.",
+            "student_popularity": "high"
+          },
+          {
+            "location_name": "Rose Park",
+            "type": "park",
+            "address": "26th & O St NW, Washington, DC 20007",
+            "rating": 4.6,
+            "social_context": "Relaxing, studying outdoors, picnics. Popular during warm weather afternoons and weekends.",
+            "student_popularity": "medium"
+          },
+          {
+            "location_name": "Philz Coffee",
+            "type": "cafe",
+            "address": "1331 Wisconsin Ave NW, Washington, DC 20007",
+            "rating": 4.3,
+            "social_context": "Studying, coffee breaks. Popular on weekdays.",
+            "student_popularity": "medium"
+          }
+        ]
+      },
+      "diamond_orgs": {
+        "raw_response": "```json\n{\n  \"comprehensive_orgs\": [\n    {\n      \"name\": \"Georgetown University Student Association (GUSA)\",\n      \"category\": \"Government\",\n      \"engagement_indicators\": \"Active website, social media presence, frequent events\",\n      \"target_priority\": \"high\"\n    },\n    {\n      \"name\": \"The Corp\",\n      \"category\": \"Academic/Professional\",\n      \"engagement_indicators\": \"Large student-run business, active online presence\",\n      \"target_priority\": \"high\"\n    },\n    {\n      \"name\": \"Georgetown Program Board (GPB)\",\n      \"category\": \"Special\",\n      \"engagement_indicators\": \"Organizes major campus events, strong social media\",\n      \"target_priority\": \"high\"\n    },\n    {\n      \"name\": \"The Hoya\",\n      \"category\": \"Academic/Professional\",\n      \"engagement_indicators\": \"Student newspaper, website and social media presence\",\n      \"target_priority\": \"high\"\n    },\n    {\n      \"name\": \"Mask & Bauble Dramatic Society\",\n      \"category\": \"Arts/Creative\",\n      \"engagement_indicators\": \"Regular performances, website, social media promotion\",\n      \"target_priority\": \"medium\"\n    },\n    {\n      \"name\": \"Georgetown University Chamber Singers\",\n      \"category\": \"Arts/Creative\",\n      \"engagement_indicators\": \"Performances, website, social media presence\",\n      \"target_priority\": \"medium\"\n    },\n    {\n      \"name\": \"GU Women's Basketball\",\n      \"category\": \"Sports/Recreation\",\n      \"engagement_indicators\": \"Game schedules, social media, news coverage\",\n      \"target_priority\": \"medium\"      \n    },\n    {\n      \"name\": \"GU Men's Basketball\",\n      \"category\": \"Sports/Recreation\",\n      \"engagement_indicators\": \"Game schedules, social media, substantial news coverage\",\n      \"target_priority\": \"high\"      \n    },\n    {\n      \"name\": \"Georgetown International Relations Association (GIRA)\",\n      \"category\": \"Academic/Professional\",\n      \"engagement_indicators\": \"Events, speakers, potential social media\",\n      \"target_priority\": \"medium\"\n    },\n    {\n      \"name\": \"Georgeto"
+      }
+    },
+    "contacts": {
+      "all_contacts": [
+        {
+          "name": "Unknown",
+          "title": "President",
+          "organization": "Residence Hall Association (RHA)",
+          "email": "rha@georgetown.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "Ryan Ritter",
+          "title": "President",
+          "organization": "Georgetown University Student Association (GUSA)",
+          "email": "gusaexec@georgetown.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Caleb Richmond",
+          "title": "Editor-in-Chief",
+          "organization": "The Hoya",
+          "email": "editor@thehoya.com",
+          "confidence": "high"
+        },
+        {
+          "name": "Unknown",
+          "title": "Director or Coordinator",
+          "organization": "Student Activities",
+          "email": "studentengagement@georgetown.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "Vacant/Unknown",
+          "title": "Managing Editor",
+          "organization": "The Hoya",
+          "email": "managingeditor@thehoya.com",
+          "confidence": "medium"
+        },
+        {
+          "name": "Placeholder Name",
+          "title": "Tour Guide",
+          "organization": "Georgetown Admissions",
+          "email": "not_available@example.com",
+          "influence_type": "tours"
+        }
+      ],
+      "email_contacts": [
+        {
+          "name": "Unknown",
+          "title": "President",
+          "organization": "Residence Hall Association (RHA)",
+          "email": "rha@georgetown.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "Ryan Ritter",
+          "title": "President",
+          "organization": "Georgetown University Student Association (GUSA)",
+          "email": "gusaexec@georgetown.edu",
+          "confidence": "high"
+        },
+        {
+          "name": "Caleb Richmond",
+          "title": "Editor-in-Chief",
+          "organization": "The Hoya",
+          "email": "editor@thehoya.com",
+          "confidence": "high"
+        },
+        {
+          "name": "Unknown",
+          "title": "Director or Coordinator",
+          "organization": "Student Activities",
+          "email": "studentengagement@georgetown.edu",
+          "confidence": "low"
+        },
+        {
+          "name": "Vacant/Unknown",
+          "title": "Managing Editor",
+          "organization": "The Hoya",
+          "email": "managingeditor@thehoya.com",
+          "confidence": "medium"
+        },
+        {
+          "name": "Placeholder Name",
+          "title": "Tour Guide",
+          "organization": "Georgetown Admissions",
+          "email": "not_available@example.com",
+          "influence_type": "tours"
+        }
+      ],
+      "contact_count": 6,
+      "strategies_used": [
+        "leadership",
+        "directories",
+        "events",
+        "social"
+      ]
+    }
+  },
+  "generated_at": "2025-08-09T12:03:00.296190"
+}

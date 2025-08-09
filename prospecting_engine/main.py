@@ -23,6 +23,7 @@ import google.generativeai as genai
 from quantitative_engine import QuantitativeEngine
 from qualitative_engine import QualitativeEngine
 from event_intelligence_engine import EventIntelligenceEngine
+from master_contact_engine import MasterContactEngine
 from prompts import STRATEGIC_RANKING_PROMPT
 from pdf_generator import generate_prospecting_pdf
 
@@ -222,23 +223,25 @@ def phase2_strategic_ranking(university_data: List[Dict], gemini_api_key: str) -
 
 
 def process_single_university_contacts(university: str, gemini_api_key: str) -> tuple:
-    """Process contact sourcing for a single university."""
+    """Process contact sourcing for a single university using Master Contact Engine."""
     try:
-        # Get regular student contacts
-        qualitative_engine = QualitativeEngine(gemini_api_key)
-        contacts = qualitative_engine.run(university)
+        # Use the new Master Contact Engine for bulletproof contact finding
+        master_engine = MasterContactEngine(gemini_api_key)
+        result = master_engine.run(university)
         
-        # Get event organizer contacts (high-agency targets)
-        event_engine = EventIntelligenceEngine(gemini_api_key)
-        event_contacts = event_engine.run(university)
+        # Convert to expected format for compatibility
+        if "final_contacts" in result:
+            contacts = {
+                "student_contacts": result["final_contacts"],
+                "contacts_with_email": len(result["final_contacts"]),
+                "total_contacts_found": result.get("total_contacts_found", len(result["final_contacts"])),
+                "engines_used": result.get("engines_used", []),
+                "success_rate": result.get("success_rate", "unknown")
+            }
+        else:
+            contacts = {"error": result.get("error", "Unknown error")}
         
-        # Combine results
-        combined_result = {
-            "student_contacts": contacts,
-            "event_organizers": event_contacts
-        }
-        
-        return university, combined_result
+        return university, contacts
     except Exception as e:
         return university, {"error": str(e)}
 

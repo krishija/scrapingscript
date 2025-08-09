@@ -1,0 +1,5113 @@
+[
+  {
+    "campus_name": "Tulane University of Louisiana",
+    "status": "success",
+    "organizations": {
+      "raw_response": "```json\n{\n  \"comprehensive_orgs\": [\n    {\n      \"name\": \"Alliance of Black Business Students\",\n      \"category\": \"Academic/Professional\",\n      \"engagement_indicators\": null,\n      \"target_priority\": \"medium\"\n    },\n    {\n      \"name\": \"Alpha Rho Chi\",\n      \"category\": \"Academic/Professional\",\n      \"engagement_indicators\": null,\n      \"target_priority\": \"low\"\n    },\n    {\n      \"name\": \"American Chemical Society Tulane Chapter\",\n      \"category\": \"Academic/Professional\",\n      \"engagement_indicators\": null,\n      \"target_priority\": \"medium\"\n    },\n    {\n      \"name\": \"American Institute of Architecture Students\",\n      \"category\": \"Academic/Professional\",\n      \"engagement_indicators\": null,\n      \"target_priority\": \"medium\"\n    },\n    {\n      \"name\": \"American Institute of Chemical Engineers\",\n      \"category\": \"Academic/Professional\",\n      \"engagement_indicators\": null,\n      \"target_priority\": \"medium\"\n    },\n    {\n      \"name\": \"American Lung Cancer Screening Initiative\",\n      \"category\": \"Service/Volunteer\",\n      \"engagement_indicators\": null,\n      \"target_priority\": \"medium\"\n    },\n    {\n      \"name\": \"Student Bar Association\",\n      \"category\": \"Academic/Professional\",\n      \"engagement_indicators\": null,\n      \"target_priority\": \"high\"\n    },\n    {\n      \"name\": \"School of Architecture Graduate Government\",\n      \"category\": \"Student Government\",\n      \"engagement_indicators\": null,\n      \"target_priority\": \"medium\"\n    },\n    {\n      \"name\": \"Tulane African Student Association\",\n      \"category\": \"Cultural/Ethnic\",\n      \"engagement_indicators\": null,\n      \"target_priority\": \"medium\"\n    },\n    {\n      \"name\": \"Asian American Student Union\",\n      \"category\": \"Cultural/Ethnic\",\n      \"engagement_indicators\": \"Mentioned in article regarding diversity\",\n      \"target_priority\": \"high\"\n    },\n    {\n      \"name\": \"Bandhu Youth Mentorship at Tulane University\",\n      \"category\": \"Service/Volunteer\",\n      \"engagement_indicators\": null,\n      \"target_prior"
+    },
+    "community_clusters": {
+      "community_clusters": [
+        {
+          "name": "The Greek Life",
+          "description": "A significant presence on campus, Greek life revolves around fraternities and sororities. This group is characterized by social events, philanthropy, and a strong sense of community within their respective organizations. Values often include tradition, brotherhood/sisterhood, and social networking.",
+          "influence": "high",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Academics & Pre-Professionals",
+          "description": "Focused primarily on academic pursuits and career preparation, this group is involved in pre-professional organizations, honor societies, and academic clubs related to their fields of study. Values include academic excellence, career advancement, and intellectual curiosity.",
+          "influence": "medium",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Party Scene",
+          "description": "Highly social and centered around the vibrant nightlife and party culture.  This group is active Wednesday-Saturday, with varying levels of party intensity. While not explicitly named in the text, the student polls about parties strongly suggest this is a distinct cluster. Values include social connections, having fun, and experiencing the New Orleans scene.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Service & Civic Engagement Crew",
+          "description": "Driven by a desire to make a difference, this group actively participates in community service clubs, volunteer organizations, and social justice initiatives. Values include altruism, social responsibility, and community involvement.",
+          "influence": "medium",
+          "size_estimate": "small"
+        },
+        {
+          "name": "The Arts & Culture Collective",
+          "description": "This group thrives on creative expression and cultural experiences.  They participate in performing arts organizations, media groups (like the radio station), and likely take advantage of the New Orleans cultural scene. Values include creativity, artistic expression, and cultural exploration.",
+          "influence": "medium",
+          "size_estimate": "small"
+        }
+      ]
+    },
+    "reddit_intelligence": {
+      "top_users": [],
+      "mentioned_orgs": [],
+      "mentioned_places": [],
+      "subreddit_vibe": "A mix of excitement about Tulane, especially regarding football and admissions, with some concerns about the social environment and housing situation."
+    },
+    "high_agency_orgs": [],
+    "org_count": 0,
+    "high_agency_count": 0,
+    "cluster_count": 5,
+    "elapsed_time": 66.73558402061462
+  },
+  {
+    "campus_name": "Georgetown University",
+    "status": "success",
+    "organizations": {
+      "comprehensive_orgs": [
+        {
+          "name": "African Society of Georgetown",
+          "category": "Cultural",
+          "engagement_indicators": "Email: africansociety@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Alexander Hamilton Society",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Email: guahs@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Armenian Student Association",
+          "category": "Cultural",
+          "engagement_indicators": "Email: armenianstudents@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Asian American Student Association",
+          "category": "Cultural",
+          "engagement_indicators": "Email: aasa@georgetown.edu",
+          "target_priority": "high"
+        },
+        {
+          "name": "Association of Small Town and Rural Students (STARS)",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Balkan Club",
+          "category": "Cultural",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Black Student Alliance",
+          "category": "Cultural",
+          "engagement_indicators": "Email: blackstudentalliance@georgetown.edu",
+          "target_priority": "high"
+        },
+        {
+          "name": "Black Student Athlete Coalition",
+          "category": "Sports/Special Interest",
+          "engagement_indicators": "Email: bsac@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "BRASA (Brazilian Student Association)",
+          "category": "Cultural",
+          "engagement_indicators": "Email: brasa@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Caribbean Culture Circle",
+          "category": "Cultural",
+          "engagement_indicators": "Email: ccc@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Chinese Student Association",
+          "category": "Cultural",
+          "engagement_indicators": "Email: chinesestudents@georgetown.edu",
+          "target_priority": "high"
+        },
+        {
+          "name": "Club Filipino",
+          "category": "Cultural",
+          "engagement_indicators": "Email: clubfilipino@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Club Singapore",
+          "category": "Cultural",
+          "engagement_indicators": "Email: clubsingapore@georgetown.edu",
+          "target_priority": "low"
+        },
+        {
+          "name": "Ethiopian Eritrean Student Association",
+          "category": "Cultural",
+          "engagement_indicators": "Email: eesa@georgetown.edu",
+          "target_priority": "low"
+        },
+        {
+          "name": "French Cultural Association",
+          "category": "Cultural",
+          "engagement_indicators": "Email: gufca@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Georgetown Disability Alliance",
+          "category": "Advocacy/Social Justice",
+          "engagement_indicators": "Email: disabilityalliance@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Georgetown Israel Alliance",
+          "category": "Cultural/Political",
+          "engagement_indicators": "Email: gia@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Hong Kong Students Association (HKSA)",
+          "category": "Cultural",
+          "engagement_indicators": "Email: hksa@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "International Student Association",
+          "category": "Cultural",
+          "engagement_indicators": "Email: internationalstudents@georgetown.edu",
+          "target_priority": "high"
+        },
+        {
+          "name": "Iranian Cultural Society",
+          "category": "Cultural",
+          "engagement_indicators": "Email: iranianculturalsoc@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Japan Network",
+          "category": "Cultural",
+          "engagement_indicators": "Email: japannet@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Korean Student Association",
+          "category": "Cultural",
+          "engagement_indicators": "Email: koreanstudents@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Latin American Student Association",
+          "category": "Cultural",
+          "engagement_indicators": "Email: lasa@georgetown.edu",
+          "target_priority": "high"
+        },
+        {
+          "name": "Lebanese Student Association",
+          "category": "Cultural",
+          "engagement_indicators": "Email: lebanesestudents@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Kappa Delta Sorority",
+          "category": "Greek Life",
+          "engagement_indicators": "Website mentioned",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Lambda Chi Alpha Fraternity",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Sigma Kappa Sorority",
+          "category": "Greek Life",
+          "engagement_indicators": "Mentioned as oldest sorority on campus, works with gerontology efforts",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Student Government Association (SGA)",
+          "category": "Student Government",
+          "engagement_indicators": "Mentioned multiple times in context of student involvement",
+          "target_priority": "high"
+        },
+        {
+          "name": "Jack's Crew",
+          "category": "Special Interest/Service",
+          "engagement_indicators": "Described as assisting with care of mascot, Jack the Bulldog",
+          "target_priority": "medium"
+        },
+        {
+          "name": "A Capella Groups (6 unnamed)",
+          "category": "Arts/Creative",
+          "engagement_indicators": "Mentioned as performing at events and festivals",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Numerous Club Sports (39 mentioned)",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Number specified, various sports listed (e.g., field hockey, figure skating, basketball, soccer, running, boxing, tennis, equestrian, fencing, ultimate, volleyball, rugby, polo, softball)",
+          "target_priority": "high"
+        },
+        {
+          "name": "Advocacy and Social Justice Clubs (127 mentioned)",
+          "category": "Advocacy/Social Justice",
+          "engagement_indicators": "Number specified",
+          "target_priority": "high"
+        },
+        {
+          "name": "Cultural Groups (85 mentioned)",
+          "category": "Cultural",
+          "engagement_indicators": "Number specified",
+          "target_priority": "high"
+        },
+        {
+          "name": "CSJ Groups (Center for Social Justice Research, Teaching and Service)",
+          "category": "Service/Volunteer",
+          "engagement_indicators": "Mentioned as supporting several student groups serving the community",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Interfraternity Council",
+          "category": "Greek Life/Government",
+          "engagement_indicators": "Oversight of fraternities",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Panhellenic Council",
+          "category": "Greek Life/Government",
+          "engagement_indicators": "Oversight of sororities",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Greek Judicial Board",
+          "category": "Greek Life/Government",
+          "engagement_indicators": "Administrative hearing body",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Georgetown University European Club",
+          "category": "Cultural",
+          "engagement_indicators": "Email: europeanclub@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Georgetown University Hellenic Association",
+          "category": "Cultural",
+          "engagement_indicators": "Email: hellenicclub@georgetown.edu",
+          "target_priority": "low"
+        },
+        {
+          "name": "Georgetown University Mosaic",
+          "category": "Special Interest/Cultural",
+          "engagement_indicators": "Email: gumosaic@georgetown.edu",
+          "target_priority": "low"
+        },
+        {
+          "name": "Georgetown University Women of Color",
+          "category": "Cultural/Advocacy",
+          "engagement_indicators": "Email: womenofcolor@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "GU Arab Society",
+          "category": "Cultural",
+          "engagement_indicators": "Email: arabsociety@georgetown.edu",
+          "target_priority": "medium"
+        },
+        {
+          "name": "GU Irish American Society",
+          "category": "Cultural",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        }
+      ],
+      "total_found": 43,
+      "phantombuster_ready": true,
+      "categories_breakdown": {
+        "Cultural": 24,
+        "Academic/Professional": 1,
+        "Special Interest": 1,
+        "Sports/Special Interest": 1,
+        "Advocacy/Social Justice": 2,
+        "Cultural/Political": 1,
+        "Greek Life": 3,
+        "Student Government": 1,
+        "Special Interest/Service": 1,
+        "Arts/Creative": 1,
+        "Sports/Recreation": 1,
+        "Service/Volunteer": 1,
+        "Greek Life/Government": 3,
+        "Special Interest/Cultural": 1,
+        "Cultural/Advocacy": 1
+      }
+    },
+    "community_clusters": {
+      "community_clusters": [
+        {
+          "name": "The Hoyas & Sports Fans",
+          "description": "Center around Georgetown athletics, both as participants and spectators. Value school spirit, competition, and physical activity. Participate in intramural and club sports, attend varsity games, and engage in sports-related discussions. Likely to frequent sports facilities and socialize at sports-themed events.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Arts & Culture Crew",
+          "description": "Passionate about artistic expression and cultural experiences. Participate in theater productions, music groups, dance clubs, and other creative pursuits. Attend performances and exhibitions both on and off-campus, leveraging Georgetown's proximity to DC's vibrant arts scene. Value creativity, self-expression, and cultural exploration.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Service & Social Impact Advocates",
+          "description": "Driven by a desire to make a positive impact on the community. Engage in volunteer work, social justice initiatives, and service-oriented clubs. Value social responsibility, empathy, and community engagement.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Greek Life Community",
+          "description": "Members of fraternities and sororities.  Focus on social connections, philanthropy, and leadership development within their respective organizations. Greek life often plays a significant role in campus social events and activities.  Values vary between specific organizations, but commonly include brotherhood/sisterhood, tradition, and social engagement.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The DC Explorers",
+          "description": "Embrace Georgetown's location in Washington, D.C.  Actively explore the city's cultural attractions, historical sites, political scene, and diverse neighborhoods.  Value intellectual curiosity, urban experiences, and engaging with the world beyond campus.",
+          "influence": "low",
+          "size_estimate": "large"
+        }
+      ]
+    },
+    "reddit_intelligence": {
+      "top_users": [],
+      "mentioned_orgs": [],
+      "mentioned_places": [
+        "Healy Hall",
+        "Safeway",
+        "Leo's",
+        "Regents Hall",
+        "St. Mary's",
+        "ICC",
+        "Hariri Building",
+        "Jesuit Residence",
+        "New Research Building",
+        "Arrupe Hall"
+      ],
+      "subreddit_vibe": "Georgetown students are excited and proud, celebrating acceptances and sharing campus tips.  There's also a practical side, with discussions about academics, jobs, and the cost of living."
+    },
+    "high_agency_orgs": [
+      {
+        "name": "Student Government Association (SGA)",
+        "category": "Student Government",
+        "engagement_indicators": "Mentioned multiple times in context of student involvement",
+        "target_priority": "high",
+        "agency_score": 45,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Interfraternity Council",
+        "category": "Greek Life/Government",
+        "engagement_indicators": "Oversight of fraternities",
+        "target_priority": "medium",
+        "agency_score": 38,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Panhellenic Council",
+        "category": "Greek Life/Government",
+        "engagement_indicators": "Oversight of sororities",
+        "target_priority": "medium",
+        "agency_score": 38,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Greek Judicial Board",
+        "category": "Greek Life/Government",
+        "engagement_indicators": "Administrative hearing body",
+        "target_priority": "medium",
+        "agency_score": 28,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Numerous Club Sports (39 mentioned)",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Number specified, various sports listed (e.g., field hockey, figure skating, basketball, soccer, running, boxing, tennis, equestrian, fencing, ultimate, volleyball, rugby, polo, softball)",
+        "target_priority": "high",
+        "agency_score": 23,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Kappa Delta Sorority",
+        "category": "Greek Life",
+        "engagement_indicators": "Website mentioned",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Lambda Chi Alpha Fraternity",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Sigma Kappa Sorority",
+        "category": "Greek Life",
+        "engagement_indicators": "Mentioned as oldest sorority on campus, works with gerontology efforts",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alexander Hamilton Society",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Email: guahs@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Jack's Crew",
+        "category": "Special Interest/Service",
+        "engagement_indicators": "Described as assisting with care of mascot, Jack the Bulldog",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "CSJ Groups (Center for Social Justice Research, Teaching and Service)",
+        "category": "Service/Volunteer",
+        "engagement_indicators": "Mentioned as supporting several student groups serving the community",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Black Student Athlete Coalition",
+        "category": "Sports/Special Interest",
+        "engagement_indicators": "Email: bsac@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "A Capella Groups (6 unnamed)",
+        "category": "Arts/Creative",
+        "engagement_indicators": "Mentioned as performing at events and festivals",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Asian American Student Association",
+        "category": "Cultural",
+        "engagement_indicators": "Email: aasa@georgetown.edu",
+        "target_priority": "high",
+        "agency_score": 15,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Black Student Alliance",
+        "category": "Cultural",
+        "engagement_indicators": "Email: blackstudentalliance@georgetown.edu",
+        "target_priority": "high",
+        "agency_score": 15,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Chinese Student Association",
+        "category": "Cultural",
+        "engagement_indicators": "Email: chinesestudents@georgetown.edu",
+        "target_priority": "high",
+        "agency_score": 15,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "International Student Association",
+        "category": "Cultural",
+        "engagement_indicators": "Email: internationalstudents@georgetown.edu",
+        "target_priority": "high",
+        "agency_score": 15,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Latin American Student Association",
+        "category": "Cultural",
+        "engagement_indicators": "Email: lasa@georgetown.edu",
+        "target_priority": "high",
+        "agency_score": 15,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Advocacy and Social Justice Clubs (127 mentioned)",
+        "category": "Advocacy/Social Justice",
+        "engagement_indicators": "Number specified",
+        "target_priority": "high",
+        "agency_score": 15,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Cultural Groups (85 mentioned)",
+        "category": "Cultural",
+        "engagement_indicators": "Number specified",
+        "target_priority": "high",
+        "agency_score": 15,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "African Society of Georgetown",
+        "category": "Cultural",
+        "engagement_indicators": "Email: africansociety@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Armenian Student Association",
+        "category": "Cultural",
+        "engagement_indicators": "Email: armenianstudents@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "BRASA (Brazilian Student Association)",
+        "category": "Cultural",
+        "engagement_indicators": "Email: brasa@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Caribbean Culture Circle",
+        "category": "Cultural",
+        "engagement_indicators": "Email: ccc@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Club Filipino",
+        "category": "Cultural",
+        "engagement_indicators": "Email: clubfilipino@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "French Cultural Association",
+        "category": "Cultural",
+        "engagement_indicators": "Email: gufca@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Georgetown Disability Alliance",
+        "category": "Advocacy/Social Justice",
+        "engagement_indicators": "Email: disabilityalliance@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Georgetown Israel Alliance",
+        "category": "Cultural/Political",
+        "engagement_indicators": "Email: gia@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Georgetown University Women of Color",
+        "category": "Cultural/Advocacy",
+        "engagement_indicators": "Email: womenofcolor@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Association of Small Town and Rural Students (STARS)",
+        "category": "Special Interest",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Georgetown University Mosaic",
+        "category": "Special Interest/Cultural",
+        "engagement_indicators": "Email: gumosaic@georgetown.edu",
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Hong Kong Students Association (HKSA)",
+        "category": "Cultural",
+        "engagement_indicators": "Email: hksa@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Iranian Cultural Society",
+        "category": "Cultural",
+        "engagement_indicators": "Email: iranianculturalsoc@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Japan Network",
+        "category": "Cultural",
+        "engagement_indicators": "Email: japannet@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Korean Student Association",
+        "category": "Cultural",
+        "engagement_indicators": "Email: koreanstudents@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Lebanese Student Association",
+        "category": "Cultural",
+        "engagement_indicators": "Email: lebanesestudents@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Georgetown University European Club",
+        "category": "Cultural",
+        "engagement_indicators": "Email: europeanclub@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "GU Arab Society",
+        "category": "Cultural",
+        "engagement_indicators": "Email: arabsociety@georgetown.edu",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Balkan Club",
+        "category": "Cultural",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Club Singapore",
+        "category": "Cultural",
+        "engagement_indicators": "Email: clubsingapore@georgetown.edu",
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Ethiopian Eritrean Student Association",
+        "category": "Cultural",
+        "engagement_indicators": "Email: eesa@georgetown.edu",
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Georgetown University Hellenic Association",
+        "category": "Cultural",
+        "engagement_indicators": "Email: hellenicclub@georgetown.edu",
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "GU Irish American Society",
+        "category": "Cultural",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      }
+    ],
+    "org_count": 43,
+    "high_agency_count": 43,
+    "cluster_count": 5,
+    "elapsed_time": 77.10757303237915
+  },
+  {
+    "campus_name": "University of Michigan-Ann Arbor",
+    "status": "success",
+    "organizations": {
+      "comprehensive_orgs": [
+        {
+          "name": "A different type of investment banking club",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Providing education, guidance, and resources",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Basketball Club at Ross",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Affiliated with Ross School of Business",
+          "target_priority": "medium"
+        },
+        {
+          "name": "AI Business Group",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Executes projects, teaches coding skills, affiliated with Ross and Engineering",
+          "target_priority": "high"
+        },
+        {
+          "name": "Alpha Kappa Psi",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Atlas Consulting Group",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Provides consulting exposure and skills",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Interfraternity Council (IFC)",
+          "category": "Greek Life",
+          "engagement_indicators": "Over 5,500 students, part of 4 councils",
+          "target_priority": "high"
+        },
+        {
+          "name": "Multicultural Greek Council (MGC)",
+          "category": "Greek Life",
+          "engagement_indicators": "Over 5,500 students, part of 4 councils",
+          "target_priority": "high"
+        },
+        {
+          "name": "National Pan-Hellenic Council (NPHC)",
+          "category": "Greek Life",
+          "engagement_indicators": "Over 5,500 students, part of 4 councils",
+          "target_priority": "high"
+        },
+        {
+          "name": "Panhellenic Association (Panhel)",
+          "category": "Greek Life",
+          "engagement_indicators": "Over 5,500 students, part of 4 councils",
+          "target_priority": "high"
+        },
+        {
+          "name": "Zeta Tau Alpha",
+          "category": "Greek Life",
+          "engagement_indicators": "Focuses on friendship, love, and womanhood",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Kappa Delta Sorority",
+          "category": "Greek Life",
+          "engagement_indicators": "Builds confidence and inspires women to action",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Kappa Kappa Gamma",
+          "category": "Greek Life",
+          "engagement_indicators": "Offers member experience from friendship to leadership and service",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Chi Omega",
+          "category": "Greek Life",
+          "engagement_indicators": "Provides a network of friends and lifelong development",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Students of Color of Rackham (SCOR)",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Supports social, cultural, political, and academic well-being",
+          "target_priority": "medium"
+        },
+        {
+          "name": "LGBTQ+ graduate student organization",
+          "category": "Special Interest",
+          "engagement_indicators": "Provides support and networking",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Graduate Rackham International (GRIN)",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Improves experience of international and multi-ethnic/racial/cultural students",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Society of Hispanic Professional Engineers- Graduate Committee (SHPE)",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Empowers Hispanic community through STEM",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Chinese Students and Scholars Association",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Mentioned as a student association",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Michigan Taiwanese Student Association",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Discusses issues of Taiwanese society",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pakistani Student Association",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Creates a home away from home",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Taiwanese American Student Association",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Preserves and promotes Taiwanese culture",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Thai Student Association",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Brings together students interested in Thai culture",
+          "target_priority": "medium"
+        },
+        {
+          "name": "United Asian American Organizations",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Umbrella organization for Asian American groups",
+          "target_priority": "high"
+        }
+      ],
+      "total_found": 23,
+      "phantombuster_ready": true,
+      "categories_breakdown": {
+        "Academic/Professional": 5,
+        "Sports/Recreation": 1,
+        "Greek Life": 8,
+        "Cultural/Ethnic": 8,
+        "Special Interest": 1
+      }
+    },
+    "community_clusters": {
+      "community_clusters": [
+        {
+          "name": "The Greek Life",
+          "description": "Composed of students involved in fraternities and sororities.  Focuses on social events, parties, and often philanthropic activities. Strong sense of community within each organization, and Greek life as a whole has a visible presence on campus.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Arts & Culture Crew",
+          "description": "Passionate about music, theatre, visual arts, and other creative pursuits. Active in various performance groups (orchestra, bands, a cappella, etc.), attend University Musical Society events, and participate in arts programs like \"Passport to the Arts.\"  Value creativity and self-expression.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Driven Academics",
+          "description": "Highly focused on academics, research, and career development.  Value intellectual curiosity, academic achievement, and making a difference in the world. Spend significant time in libraries, labs, and attending academic events.",
+          "influence": "high",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Social Butterflies & Partygoers",
+          "description": "Prioritize social life and enjoy the vibrant party scene.  Highly active on weekends, attending parties, and frequenting bars (when of age).  Value fun, social connections, and making the most of their college experience. This group overlaps significantly with Greek life, but also includes many independent students.",
+          "influence": "medium",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Activists & Volunteers",
+          "description": "Driven by social justice, community service, and making a positive impact.  Active in various student organizations focused on social and political issues, volunteer in the local community, and participate in advocacy efforts.  Value social responsibility and civic engagement.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        }
+      ]
+    },
+    "reddit_intelligence": {
+      "top_users": [],
+      "mentioned_orgs": [],
+      "mentioned_places": [
+        "1700 Geddes",
+        "NCRB track",
+        "South University Avenue",
+        "Cabrio rental company office",
+        "Nickels Arcade"
+      ],
+      "subreddit_vibe": "A mix of heartfelt gratitude, school spirit, and everyday campus life, with some concern for local figures and off-campus issues."
+    },
+    "high_agency_orgs": [
+      {
+        "name": "Interfraternity Council (IFC)",
+        "category": "Greek Life",
+        "engagement_indicators": "Over 5,500 students, part of 4 councils",
+        "target_priority": "high",
+        "agency_score": 37,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Multicultural Greek Council (MGC)",
+        "category": "Greek Life",
+        "engagement_indicators": "Over 5,500 students, part of 4 councils",
+        "target_priority": "high",
+        "agency_score": 37,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "National Pan-Hellenic Council (NPHC)",
+        "category": "Greek Life",
+        "engagement_indicators": "Over 5,500 students, part of 4 councils",
+        "target_priority": "high",
+        "agency_score": 37,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Panhellenic Association (Panhel)",
+        "category": "Greek Life",
+        "engagement_indicators": "Over 5,500 students, part of 4 councils",
+        "target_priority": "high",
+        "agency_score": 37,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Atlas Consulting Group",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Provides consulting exposure and skills",
+        "target_priority": "medium",
+        "agency_score": 28,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "AI Business Group",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Executes projects, teaches coding skills, affiliated with Ross and Engineering",
+        "target_priority": "high",
+        "agency_score": 25,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Zeta Tau Alpha",
+        "category": "Greek Life",
+        "engagement_indicators": "Focuses on friendship, love, and womanhood",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Kappa Delta Sorority",
+        "category": "Greek Life",
+        "engagement_indicators": "Builds confidence and inspires women to action",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Kappa Kappa Gamma",
+        "category": "Greek Life",
+        "engagement_indicators": "Offers member experience from friendship to leadership and service",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Chi Omega",
+        "category": "Greek Life",
+        "engagement_indicators": "Provides a network of friends and lifelong development",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "A different type of investment banking club",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Providing education, guidance, and resources",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Kappa Psi",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Society of Hispanic Professional Engineers- Graduate Committee (SHPE)",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Empowers Hispanic community through STEM",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Basketball Club at Ross",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Affiliated with Ross School of Business",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "United Asian American Organizations",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Umbrella organization for Asian American groups",
+        "target_priority": "high",
+        "agency_score": 15,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Students of Color of Rackham (SCOR)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Supports social, cultural, political, and academic well-being",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "LGBTQ+ graduate student organization",
+        "category": "Special Interest",
+        "engagement_indicators": "Provides support and networking",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Graduate Rackham International (GRIN)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Improves experience of international and multi-ethnic/racial/cultural students",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Chinese Students and Scholars Association",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Mentioned as a student association",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Michigan Taiwanese Student Association",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Discusses issues of Taiwanese society",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Pakistani Student Association",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Creates a home away from home",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Taiwanese American Student Association",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Preserves and promotes Taiwanese culture",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Thai Student Association",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Brings together students interested in Thai culture",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      }
+    ],
+    "org_count": 23,
+    "high_agency_count": 23,
+    "cluster_count": 5,
+    "elapsed_time": 68.11483478546143
+  },
+  {
+    "campus_name": "Auburn University",
+    "status": "success",
+    "organizations": {
+      "comprehensive_orgs": [
+        {
+          "name": "American Society of Heating, Refrigerating and Air-Conditioning Engineers",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Instagram",
+          "target_priority": "medium"
+        },
+        {
+          "name": "American Society of Mechanical Engineers",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Instagram, LinkedIn",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Auburn Geotechnical Society",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Auburn Robotics Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Instagram, YouTube",
+          "target_priority": "high"
+        },
+        {
+          "name": "Water and Environmental Student Association",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Instagram",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Society of Manufacturing Engineers",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Instagram",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Auburn Launch and Propulsion Society",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "AIS Student Chapter",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Auburn Space Technologies and Robotics",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Autosport at Auburn University",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Brain STEM",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Chemical Engineering Graduate Organization",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Small Satellite Program",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Product Club at Auburn University",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Vertical Flight Society",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "College of Engineering Executive Student Council",
+          "category": "Student Government",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "American Society of Safety Professionals",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Association for Computing Machinery",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Instagram",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Auburn Off-Road",
+          "category": "Special Interest",
+          "engagement_indicators": "Instagram",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Cupola Engineering Ambassadors",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Organizations Board (O-Board)",
+          "category": "Student Government",
+          "engagement_indicators": "Website",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Mu Delta House Association",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Phi Gamma Delta Fraternity - Alpha Upsilon Chapter",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Sigma Nu Fraternity - Beta Theta",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Auburn University Panhellenic Council",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "Alpha Tau Omega - Alpha Epsilon Chapter",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Farmhouse Fraternity - AU Chapter",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pi Kappa Phi Fraternity - Alpha Iota",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Lambda Chi Alpha Fraternity - Omega Zeta",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Kappa Alpha Order - Nu Chapter",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Sigma Chi Fraternity",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Alpha Xi Delta Building Corporation",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Delta Zeta Sorority / Auburn-Opelika Alumnae",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Pilot Club International / Pilot Club of Lee County",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Epsilon Chi",
+          "category": "Unknown (likely honors or professional)",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Chi Omega Fraternity - Alpha Beta Chapter",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Interfraternity Council of Auburn University",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "The Omega Club",
+          "category": "Unknown",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Kappa Delta Sorority - Sigma Lambda",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Alpha Upsilon Chapter of Phi Gamma Delta Fraternity House Corporation",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Auburn University Colony of Alpha Omega Epsilon",
+          "category": "Academic/Professional (Engineering)",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "National Pan-Hellenic Council (NPHC)",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        }
+      ],
+      "total_found": 42,
+      "phantombuster_ready": true,
+      "categories_breakdown": {
+        "Academic/Professional": 18,
+        "Student Government": 2,
+        "Special Interest": 1,
+        "Greek Life": 17,
+        "Service/Volunteer": 1,
+        "Unknown (likely honors or professional)": 1,
+        "Unknown": 1,
+        "Academic/Professional (Engineering)": 1
+      }
+    },
+    "community_clusters": {
+      "community_clusters": [
+        {
+          "name": "The Greek Life",
+          "description": "This large group centers around fraternities and sororities, emphasizing social events, philanthropy, and networking. Values often include tradition, brotherhood/sisterhood, and social status.  Their parties contribute significantly to the 'party scene' described in the text.",
+          "influence": "high",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Engineers",
+          "description": "Comprised of students in various engineering disciplines.  Activities revolve around academic projects, professional development organizations (e.g., Society of Women Engineers, Society of Hispanic Professional Engineers, Tau Beta Pi, etc.), and specialized clubs like the Robotics Club and Theme Park Engineering. Values include technical skills, innovation, and career success.",
+          "influence": "medium",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Involved & Performers",
+          "description": "Students actively participating in campus-wide organizations like the band, choir, student government (SGA), and various clubs.  Activities include performances, meetings, leadership roles, and event planning. Values include community involvement, leadership, and creative expression.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Party-Goers",
+          "description": "While potentially overlapping with Greek Life, this group is primarily defined by their focus on the social scene. Activities center around parties, bars (off-campus), and social gatherings.  Values include fun, social connection, and perhaps a less emphasis on academics.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Service & Support Oriented",
+          "description": "This group is involved with organizations like Auburn Cares and potentially some of the Student Affairs departments. Their focus is on providing support and resources to the student body, fostering a positive campus environment. Values include community well-being, helping others, and social responsibility.",
+          "influence": "low",
+          "size_estimate": "small"
+        }
+      ]
+    },
+    "reddit_intelligence": {
+      "top_users": [],
+      "mentioned_orgs": [],
+      "mentioned_places": [
+        "Toomer's Corner",
+        "Jordan Hare",
+        "Hughston Homes",
+        "Bombay Grill",
+        "BurgerFi",
+        "Yard Milkshake Bar",
+        "Hooters Auburn",
+        "160 Ross"
+      ],
+      "subreddit_vibe": "Auburn fans express a mix of pride and frustration, celebrating sports victories and community spirit while lamenting administrative decisions and local developments like the destruction of an eagle's nest."
+    },
+    "high_agency_orgs": [
+      {
+        "name": "College of Engineering Executive Student Council",
+        "category": "Student Government",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 38,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Auburn University Panhellenic Council",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 37,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Interfraternity Council of Auburn University",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 37,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "National Pan-Hellenic Council (NPHC)",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 37,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Organizations Board (O-Board)",
+        "category": "Student Government",
+        "engagement_indicators": "Website",
+        "target_priority": "medium",
+        "agency_score": 28,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Auburn Robotics Club",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Instagram, YouTube",
+        "target_priority": "high",
+        "agency_score": 25,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Phi Gamma Delta Fraternity - Alpha Upsilon Chapter",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Sigma Nu Fraternity - Beta Theta",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Tau Omega - Alpha Epsilon Chapter",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Farmhouse Fraternity - AU Chapter",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Pi Kappa Phi Fraternity - Alpha Iota",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Lambda Chi Alpha Fraternity - Omega Zeta",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Kappa Alpha Order - Nu Chapter",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Sigma Chi Fraternity",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Chi Omega Fraternity - Alpha Beta Chapter",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "American Society of Heating, Refrigerating and Air-Conditioning Engineers",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Instagram",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "American Society of Mechanical Engineers",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Instagram, LinkedIn",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Water and Environmental Student Association",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Instagram",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Society of Manufacturing Engineers",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Instagram",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Small Satellite Program",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Association for Computing Machinery",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Instagram",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Cupola Engineering Ambassadors",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Auburn Geotechnical Society",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Auburn Launch and Propulsion Society",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "AIS Student Chapter",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Auburn Space Technologies and Robotics",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Pilot Club International / Pilot Club of Lee County",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Epsilon Chi",
+        "category": "Unknown (likely honors or professional)",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Auburn University Colony of Alpha Omega Epsilon",
+        "category": "Academic/Professional (Engineering)",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Auburn Off-Road",
+        "category": "Special Interest",
+        "engagement_indicators": "Instagram",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "The Omega Club",
+        "category": "Unknown",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Kappa Delta Sorority - Sigma Lambda",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Mu Delta House Association",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 12,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Xi Delta Building Corporation",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 12,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Delta Zeta Sorority / Auburn-Opelika Alumnae",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 12,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Upsilon Chapter of Phi Gamma Delta Fraternity House Corporation",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 12,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Autosport at Auburn University",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Brain STEM",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Chemical Engineering Graduate Organization",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Product Club at Auburn University",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Vertical Flight Society",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "American Society of Safety Professionals",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      }
+    ],
+    "org_count": 42,
+    "high_agency_count": 42,
+    "cluster_count": 5,
+    "elapsed_time": 73.48231387138367
+  },
+  {
+    "campus_name": "Arizona State University",
+    "status": "success",
+    "organizations": {
+      "comprehensive_orgs": [
+        {
+          "name": "ACM Student Chapter at ASU",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned in directory",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Sun Devil Rocketry",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned in directory, described as student-run",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Sun Devil Satellite Laboratory (SDSL)",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned in directory",
+          "target_priority": "medium"
+        },
+        {
+          "name": "American Indian Science and Engineering Society (AISES)",
+          "category": "Academic/Professional, Cultural/Ethnic",
+          "engagement_indicators": "Mentioned in directory, described as supporting Indigenous students",
+          "target_priority": "medium"
+        },
+        {
+          "name": "American Institute of Chemical Engineers (AIChE)",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned in directory",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Sun Devil Chess",
+          "category": "Academic/Professional, Special Interest",
+          "engagement_indicators": "Mentioned in directory, described as promoting chess",
+          "target_priority": "low"
+        },
+        {
+          "name": "CodeDevils (CD)",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned in directory, described as a software engineering club, online presence",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Hacker Devils",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned in directory, described as focusing on coding interviews",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Institute of Electrical and Electronics Engineers (IEEE)",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned in directory, logo present",
+          "target_priority": "high"
+        },
+        {
+          "name": "Google Developer Student Club (GDSC)",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned in directory, described as running workshops, logo present",
+          "target_priority": "high"
+        },
+        {
+          "name": "Alliance of Indigenous Peoples (AIP)",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Mentioned as a student coalition representing various cultures",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Ms. Mr. Indian ASU",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Mentioned as part of AIP",
+          "target_priority": "low"
+        },
+        {
+          "name": "Native American Business Organization (NABO)",
+          "category": "Cultural/Ethnic, Academic/Professional",
+          "engagement_indicators": "Mentioned as part of AIP",
+          "target_priority": "low"
+        },
+        {
+          "name": "Native American Law Student Association (NALSA)",
+          "category": "Cultural/Ethnic, Academic/Professional",
+          "engagement_indicators": "Mentioned as part of AIP",
+          "target_priority": "low"
+        },
+        {
+          "name": "Korean American Student Association (KASA)",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Mentioned as promoting Korean culture and involvement in American society",
+          "target_priority": "medium"
+        },
+        {
+          "name": "MENA Students Union (SADIK)",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Mentioned as advising the International Students and Scholars Center",
+          "target_priority": "medium"
+        },
+        {
+          "name": "EMPOWERED club",
+          "category": "Special Interest",
+          "engagement_indicators": "Mentioned as helping students overcome challenges",
+          "target_priority": "low"
+        },
+        {
+          "name": "Sun Devil Intramural Sports",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Described with various activities and leagues",
+          "target_priority": "high"
+        },
+        {
+          "name": "Fraternity and Sorority Life (FSL)",
+          "category": "Greek Life",
+          "engagement_indicators": "Mentioned extensively, Welcome Back Block Party, Risk Management Training, website, statistics",
+          "target_priority": "high"
+        },
+        {
+          "name": "Alpha Kappa Alpha",
+          "category": "Greek Life (NPHC)",
+          "engagement_indicators": "Listed as a member of the National Pan-Hellenic Council",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Alpha Phi Alpha",
+          "category": "Greek Life (NPHC)",
+          "engagement_indicators": "Listed as a member of the National Pan-Hellenic Council",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Delta Sigma Theta",
+          "category": "Greek Life (NPHC)",
+          "engagement_indicators": "Listed as a member of the National Pan-Hellenic Council",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Kappa Alpha Psi",
+          "category": "Greek Life (NPHC)",
+          "engagement_indicators": "Listed as a member of the National Pan-Hellenic Council",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Omega Psi Phi",
+          "category": "Greek Life (NPHC)",
+          "engagement_indicators": "Implied as a member of the National Pan-Hellenic Council (incomplete name)",
+          "target_priority": "medium"
+        }
+      ],
+      "total_found": 24,
+      "phantombuster_ready": true,
+      "categories_breakdown": {
+        "Academic/Professional": 8,
+        "Academic/Professional, Cultural/Ethnic": 1,
+        "Academic/Professional, Special Interest": 1,
+        "Cultural/Ethnic": 4,
+        "Cultural/Ethnic, Academic/Professional": 2,
+        "Special Interest": 1,
+        "Sports/Recreation": 1,
+        "Greek Life": 1,
+        "Greek Life (NPHC)": 5
+      }
+    },
+    "community_clusters": {
+      "community_clusters": [
+        {
+          "name": "The Greek Life",
+          "description": "This group is heavily involved in fraternities and sororities, prioritizing social events, philanthropy, and networking.  They often hold prominent positions in student government and other organizations.  Values include brotherhood/sisterhood, tradition, and social status.",
+          "influence": "high",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Academics & Career-Focused",
+          "description": "Driven by academic achievement and career preparation, this group actively participates in research, internships, and professional development opportunities.  They prioritize academic rigor and future career success. Values include intellectual curiosity, hard work, and professional development.",
+          "influence": "medium",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Social & Party Scene",
+          "description": "This group prioritizes socializing, partying, and enjoying the college experience. They are highly active in the bar scene and attend many on and off-campus social gatherings. Values include fun, social connection, and enjoying the present.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Changemakers & Activists",
+          "description": "Passionate about social justice, activism, and community service, this group is involved in various advocacy groups and volunteer organizations. They prioritize making a positive impact on campus and in the broader community. Values include social responsibility, equality, and community engagement.",
+          "influence": "medium",
+          "size_estimate": "small"
+        },
+        {
+          "name": "The Special Interest & Hobbyists",
+          "description": "This cluster encompasses a wide range of student organizations based on shared interests and hobbies, from gaming and anime to hiking and photography.  They offer a niche community for students to connect over shared passions. Values include community, shared interests, and personal fulfillment.",
+          "influence": "low",
+          "size_estimate": "large"
+        }
+      ]
+    },
+    "reddit_intelligence": {
+      "top_users": [],
+      "mentioned_orgs": [
+        "Turning Point USA",
+        "College Republicans United"
+      ],
+      "mentioned_places": [
+        "Tooker Hall",
+        "Creativity Commons",
+        "Orange",
+        "Tempe",
+        "Gammage",
+        "Desert Financial Arena"
+      ],
+      "subreddit_vibe": "A mix of school pride, particularly surrounding sports, and political activism, with some frustration towards campus administration and local issues like construction and safety."
+    },
+    "high_agency_orgs": [
+      {
+        "name": "Hacker Devils",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned in directory, described as focusing on coding interviews",
+        "target_priority": "medium",
+        "agency_score": 28,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Fraternity and Sorority Life (FSL)",
+        "category": "Greek Life",
+        "engagement_indicators": "Mentioned extensively, Welcome Back Block Party, Risk Management Training, website, statistics",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Institute of Electrical and Electronics Engineers (IEEE)",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned in directory, logo present",
+        "target_priority": "high",
+        "agency_score": 25,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Google Developer Student Club (GDSC)",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned in directory, described as running workshops, logo present",
+        "target_priority": "high",
+        "agency_score": 25,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Sun Devil Intramural Sports",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Described with various activities and leagues",
+        "target_priority": "high",
+        "agency_score": 23,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Kappa Alpha",
+        "category": "Greek Life (NPHC)",
+        "engagement_indicators": "Listed as a member of the National Pan-Hellenic Council",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Phi Alpha",
+        "category": "Greek Life (NPHC)",
+        "engagement_indicators": "Listed as a member of the National Pan-Hellenic Council",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Delta Sigma Theta",
+        "category": "Greek Life (NPHC)",
+        "engagement_indicators": "Listed as a member of the National Pan-Hellenic Council",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Kappa Alpha Psi",
+        "category": "Greek Life (NPHC)",
+        "engagement_indicators": "Listed as a member of the National Pan-Hellenic Council",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Omega Psi Phi",
+        "category": "Greek Life (NPHC)",
+        "engagement_indicators": "Implied as a member of the National Pan-Hellenic Council (incomplete name)",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "ACM Student Chapter at ASU",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned in directory",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Sun Devil Rocketry",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned in directory, described as student-run",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Sun Devil Satellite Laboratory (SDSL)",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned in directory",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "American Indian Science and Engineering Society (AISES)",
+        "category": "Academic/Professional, Cultural/Ethnic",
+        "engagement_indicators": "Mentioned in directory, described as supporting Indigenous students",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "American Institute of Chemical Engineers (AIChE)",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned in directory",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "CodeDevils (CD)",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned in directory, described as a software engineering club, online presence",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Sun Devil Chess",
+        "category": "Academic/Professional, Special Interest",
+        "engagement_indicators": "Mentioned in directory, described as promoting chess",
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Native American Business Organization (NABO)",
+        "category": "Cultural/Ethnic, Academic/Professional",
+        "engagement_indicators": "Mentioned as part of AIP",
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Native American Law Student Association (NALSA)",
+        "category": "Cultural/Ethnic, Academic/Professional",
+        "engagement_indicators": "Mentioned as part of AIP",
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alliance of Indigenous Peoples (AIP)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Mentioned as a student coalition representing various cultures",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Korean American Student Association (KASA)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Mentioned as promoting Korean culture and involvement in American society",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "MENA Students Union (SADIK)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Mentioned as advising the International Students and Scholars Center",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Ms. Mr. Indian ASU",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Mentioned as part of AIP",
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "EMPOWERED club",
+        "category": "Special Interest",
+        "engagement_indicators": "Mentioned as helping students overcome challenges",
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      }
+    ],
+    "org_count": 24,
+    "high_agency_count": 24,
+    "cluster_count": 5,
+    "elapsed_time": 79.2793800830841
+  },
+  {
+    "campus_name": "Howard University",
+    "status": "success",
+    "organizations": {
+      "comprehensive_orgs": [
+        {
+          "name": "Baile Afro de Howard",
+          "category": "Cultural",
+          "engagement_indicators": "Mentioned in text, image present",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Chang\u00f3 - Afro-Latino & Spanish Culture Club",
+          "category": "Cultural",
+          "engagement_indicators": "Mentioned in text, image present",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Chinese Culture Club",
+          "category": "Cultural",
+          "engagement_indicators": "Mentioned in text, image present",
+          "target_priority": "medium"
+        },
+        {
+          "name": "French Cultural Society",
+          "category": "Cultural",
+          "engagement_indicators": "Mentioned in text, image present",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Howard Capoeira Club",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Mentioned in text, image present",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Sigma Delta Pi - Spanish Honor Society",
+          "category": "Honor",
+          "engagement_indicators": "Mentioned in text, image present",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Alpha Phi Alpha Fraternity, Inc.",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned in text, founding year listed",
+          "target_priority": "high"
+        },
+        {
+          "name": "Alpha Kappa Alpha Sorority, Inc.",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned in text, founding year listed",
+          "target_priority": "high"
+        },
+        {
+          "name": "Kappa Alpha Psi Fraternity, Inc.",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned in text, founding year listed",
+          "target_priority": "high"
+        },
+        {
+          "name": "Omega Psi Phi Fraternity, Inc.",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned in text, founding year listed",
+          "target_priority": "high"
+        },
+        {
+          "name": "Delta Sigma Theta Sorority, Inc.",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned in text, founding year listed",
+          "target_priority": "high"
+        },
+        {
+          "name": "Phi Beta Sigma Fraternity, Inc.",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned in text, founding year listed",
+          "target_priority": "high"
+        },
+        {
+          "name": "Zeta Phi Beta Sorority, Inc.",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned in text, founding year listed, image present",
+          "target_priority": "high"
+        },
+        {
+          "name": "Sigma Gamma Rho Sorority, Inc.",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned in text, founding year listed",
+          "target_priority": "high"
+        },
+        {
+          "name": "Iota Phi Theta Fraternity, Inc.",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned in text, founding year listed",
+          "target_priority": "high"
+        },
+        {
+          "name": "Howard University International Pals",
+          "category": "Cultural/Special",
+          "engagement_indicators": "Mentioned in text",
+          "target_priority": "medium"
+        },
+        {
+          "name": "\u00a1Chang\u00f3!: Afro-Latino and Hispanic Cultural Society",
+          "category": "Cultural",
+          "engagement_indicators": "Mentioned in text",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Howard University Ethiopian Eritrean Students Association (EESA)",
+          "category": "Cultural",
+          "engagement_indicators": "Mentioned in text",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Howard University Nepalese Students Association (NSA)",
+          "category": "Cultural",
+          "engagement_indicators": "Mentioned in text",
+          "target_priority": "medium"
+        },
+        {
+          "name": "African Students Association",
+          "category": "Cultural",
+          "engagement_indicators": "Mentioned in text",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Caribbean Students Association",
+          "category": "Cultural",
+          "engagement_indicators": "Mentioned in text",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Multiple School and Department Clubs",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned in text (generic reference)",
+          "target_priority": "low"
+        },
+        {
+          "name": "Multiple Sports Clubs",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Mentioned in text (generic reference)",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Multiple Honor Societies",
+          "category": "Honor",
+          "engagement_indicators": "Mentioned in text (generic reference)",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Multiple Local-based Groups/Organizations",
+          "category": "Special",
+          "engagement_indicators": "Mentioned in text (generic reference)",
+          "target_priority": "low"
+        },
+        {
+          "name": "Multiple Geographical Clubs",
+          "category": "Special",
+          "engagement_indicators": "Mentioned in text (generic reference)",
+          "target_priority": "low"
+        },
+        {
+          "name": "Intramural Sports",
+          "category": "Sports",
+          "engagement_indicators": "Mentioned multiple times, specific sports listed",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Club Sports",
+          "category": "Sports",
+          "engagement_indicators": "Mentioned in the text",
+          "target_priority": "medium"
+        }
+      ],
+      "total_found": 28,
+      "phantombuster_ready": true,
+      "categories_breakdown": {
+        "Cultural": 9,
+        "Sports/Recreation": 2,
+        "Honor": 2,
+        "Greek": 9,
+        "Cultural/Special": 1,
+        "Academic/Professional": 1,
+        "Special": 2,
+        "Sports": 2
+      }
+    },
+    "community_clusters": {
+      "community_clusters": [
+        {
+          "name": "The Bison Family (HBCU Pride)",
+          "description": "This group centers around Howard's identity as an HBCU. They value cultural heritage, community engagement, and Black excellence. Activities include Homecoming, cultural events, and supporting Black-owned businesses.  A strong sense of shared identity and historical awareness binds this group.",
+          "influence": "high",
+          "size_estimate": "large"
+        },
+        {
+          "name": "Greek Life",
+          "description": "This group is heavily involved in fraternities and sororities. They value social connections, philanthropy, and leadership development.  Activities include parties, step shows, and community service events. Greek life has a significant presence on campus and contributes to the social scene.",
+          "influence": "high",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Scholars & Future Leaders",
+          "description": "This group prioritizes academics, career development, and intellectual pursuits. They are actively involved in academic clubs, research opportunities, and professional organizations.  They value intellectual curiosity, achievement, and making a positive impact.",
+          "influence": "medium",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Activists & Changemakers",
+          "description": "This group is passionate about social justice, community service, and civic engagement. They are involved in organizations focused on advocacy, political activism, and addressing social issues.  They value equality, social responsibility, and making a difference in the world.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Party People",
+          "description": "This group is focused on the social scene and enjoys parties, events, and nightlife. While some may be involved in Greek life, this group isn't solely defined by it. They value fun, social connections, and enjoying their college experience.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        }
+      ]
+    },
+    "reddit_intelligence": {
+      "top_users": [],
+      "mentioned_orgs": [],
+      "mentioned_places": [
+        "Howard"
+      ],
+      "subreddit_vibe": "Limited information available to gauge overall subreddit vibe. More data needed for accurate analysis."
+    },
+    "high_agency_orgs": [
+      {
+        "name": "Alpha Phi Alpha Fraternity, Inc.",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned in text, founding year listed",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Kappa Alpha Sorority, Inc.",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned in text, founding year listed",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Kappa Alpha Psi Fraternity, Inc.",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned in text, founding year listed",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Omega Psi Phi Fraternity, Inc.",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned in text, founding year listed",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Delta Sigma Theta Sorority, Inc.",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned in text, founding year listed",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Phi Beta Sigma Fraternity, Inc.",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned in text, founding year listed",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Zeta Phi Beta Sorority, Inc.",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned in text, founding year listed, image present",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Sigma Gamma Rho Sorority, Inc.",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned in text, founding year listed",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Iota Phi Theta Fraternity, Inc.",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned in text, founding year listed",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Howard Capoeira Club",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Mentioned in text, image present",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Multiple Sports Clubs",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Mentioned in text (generic reference)",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Intramural Sports",
+        "category": "Sports",
+        "engagement_indicators": "Mentioned multiple times, specific sports listed",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Club Sports",
+        "category": "Sports",
+        "engagement_indicators": "Mentioned in the text",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Multiple School and Department Clubs",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned in text (generic reference)",
+        "target_priority": "low",
+        "agency_score": 10,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Baile Afro de Howard",
+        "category": "Cultural",
+        "engagement_indicators": "Mentioned in text, image present",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Chang\u00f3 - Afro-Latino & Spanish Culture Club",
+        "category": "Cultural",
+        "engagement_indicators": "Mentioned in text, image present",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Chinese Culture Club",
+        "category": "Cultural",
+        "engagement_indicators": "Mentioned in text, image present",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "French Cultural Society",
+        "category": "Cultural",
+        "engagement_indicators": "Mentioned in text, image present",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Sigma Delta Pi - Spanish Honor Society",
+        "category": "Honor",
+        "engagement_indicators": "Mentioned in text, image present",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Howard University International Pals",
+        "category": "Cultural/Special",
+        "engagement_indicators": "Mentioned in text",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "\u00a1Chang\u00f3!: Afro-Latino and Hispanic Cultural Society",
+        "category": "Cultural",
+        "engagement_indicators": "Mentioned in text",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Howard University Ethiopian Eritrean Students Association (EESA)",
+        "category": "Cultural",
+        "engagement_indicators": "Mentioned in text",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Howard University Nepalese Students Association (NSA)",
+        "category": "Cultural",
+        "engagement_indicators": "Mentioned in text",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "African Students Association",
+        "category": "Cultural",
+        "engagement_indicators": "Mentioned in text",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Caribbean Students Association",
+        "category": "Cultural",
+        "engagement_indicators": "Mentioned in text",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Multiple Honor Societies",
+        "category": "Honor",
+        "engagement_indicators": "Mentioned in text (generic reference)",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Multiple Local-based Groups/Organizations",
+        "category": "Special",
+        "engagement_indicators": "Mentioned in text (generic reference)",
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Multiple Geographical Clubs",
+        "category": "Special",
+        "engagement_indicators": "Mentioned in text (generic reference)",
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      }
+    ],
+    "org_count": 28,
+    "high_agency_count": 28,
+    "cluster_count": 5,
+    "elapsed_time": 57.44601607322693
+  },
+  {
+    "campus_name": "University of Central Florida",
+    "status": "success",
+    "organizations": {
+      "comprehensive_orgs": [
+        {
+          "name": "American Society of Mechanical Engineers (ASME)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Artificial Intelligence Club (AI@UCF)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Associated Builders & Contractors (ABC)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Baja International",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Collegiate Cyber Defense Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Engineering Leadership & Innovation Institute at UCF (eli\u00b2)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "First Person View Knights (FPV)",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Formula Student",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Institute of Industrial and Systems Engineers (IISE)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Knight Hacks",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "National Society of Black Engineers (NSBE)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Next Gen Engineering",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Robotics Club of Central Florida",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Society of Asian \u200bScientists & Engineers (SASE)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Scholastic Association of Graduates in Engineering (SAGE)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Society of Environmental Engineers (SEE)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Society of Hispanic Professional Engineers (SHPE)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Society of Women Engineers (SWE)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Students for the Exploration and Development of Space (SEDS)",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Delta Zeta - \u0394\u0396",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Gamma Phi Beta - \u0393\u03a6\u0392",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Alpha Epsilon Phi - \u0391\u0395\u03a6",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Alpha Xi Delta - \u0391\u039e\u0394",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Chi Omega - \u03a7\u03a9",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "International Student Association (ISA)",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "mentioned as a diverse cultural entity",
+          "target_priority": "medium"
+        },
+        {
+          "name": "African Students Organization",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Listed in directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Iranian Student Organization",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Listed in directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Italian Club",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Listed in directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Graduate Student Association",
+          "category": "Student Government",
+          "engagement_indicators": "Mentioned in list of resources",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Graduate Student Advisory Council",
+          "category": "Student Government",
+          "engagement_indicators": "Mentioned in list of resources",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Badminton",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Baseball",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Basketball",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Bowling",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Brazilian Jiu-Jitsu",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Cuong Nhu Karate",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Cycling",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Equestrian",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Esports",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Fencing",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Golf",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Ice Hockey",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Judo",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Kendo",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Kiteboarding",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Lacrosse (Men\u2019s)",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Lacrosse (Women\u2019s)",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Paintball",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Rock Climbing",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Rowing",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Rugby (Men\u2019s)",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Rugby (Women\u2019s)",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Running",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Sailing",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "SCUBA",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Soccer (Men\u2019s)",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image reference, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Soccer (Women\u2019s)",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image reference, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Softball",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image reference, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Surf",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image reference, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Swimming",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image reference, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Table Tennis",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image reference, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Tae Kwon Do",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image reference, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Tennis",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Image references, club directory",
+          "target_priority": "low"
+        },
+        {
+          "name": "Ultimate Frisbee",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Mentioned in text",
+          "target_priority": "low"
+        }
+      ],
+      "total_found": 64,
+      "phantombuster_ready": true,
+      "categories_breakdown": {
+        "Academic/Professional": 18,
+        "Special Interest": 1,
+        "Greek Life": 5,
+        "Cultural/Ethnic": 4,
+        "Student Government": 2,
+        "Sports/Recreation": 34
+      }
+    },
+    "community_clusters": {
+      "community_clusters": [
+        {
+          "name": "The Involved Knights",
+          "description": "This group thrives on campus engagement. They are active in student government, clubs (670+ options mentioned), volunteer opportunities, and campus events like concerts and art shows. They value community, leadership, and making a difference.  They likely utilize resources like KnightConnect.",
+          "influence": "medium",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Social Butterflies",
+          "description": "Driven by the active social scene, this group enjoys the party scene, frequents bars (mentioned as readily accessible), and participates in on and off-campus social gatherings.  They value fun, connections, and experiencing college life to the fullest.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Academics & Researchers",
+          "description": "Focused primarily on academics and research opportunities, this group values knowledge, intellectual pursuits, and career advancement. They may be less visible in the general social scene but contribute significantly to the academic reputation of the university.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Casual Campus Cruisers",
+          "description": "This group enjoys the campus amenities and resources but may not be deeply involved in organized activities. They appreciate the lively atmosphere, study spaces, dining facilities (highly rated by students), and readily available activities like volleyball.  They value convenience, comfort, and a balanced lifestyle.",
+          "influence": "low",
+          "size_estimate": "large"
+        }
+      ]
+    },
+    "reddit_intelligence": {
+      "top_users": [],
+      "mentioned_orgs": [],
+      "mentioned_places": [
+        "Student Union",
+        "Lake Claire",
+        "campus",
+        "library",
+        "Memory Mall",
+        "dorms",
+        "parking services building",
+        "hospital",
+        "GameStop",
+        "Davis Shores"
+      ],
+      "subreddit_vibe": "UCF Redditors share a mix of humor, concern, and frustration about campus life, from celebrating football victories to navigating hurricane closures and administrative issues."
+    },
+    "high_agency_orgs": [
+      {
+        "name": "Graduate Student Advisory Council",
+        "category": "Student Government",
+        "engagement_indicators": "Mentioned in list of resources",
+        "target_priority": "medium",
+        "agency_score": 38,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Knight Hacks",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 28,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Graduate Student Association",
+        "category": "Student Government",
+        "engagement_indicators": "Mentioned in list of resources",
+        "target_priority": "medium",
+        "agency_score": 28,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Delta Zeta - \u0394\u0396",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Gamma Phi Beta - \u0393\u03a6\u0392",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Epsilon Phi - \u0391\u0395\u03a6",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Xi Delta - \u0391\u039e\u0394",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Chi Omega - \u03a7\u03a9",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "American Society of Mechanical Engineers (ASME)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Artificial Intelligence Club (AI@UCF)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Associated Builders & Contractors (ABC)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Baja International",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Collegiate Cyber Defense Club",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Engineering Leadership & Innovation Institute at UCF (eli\u00b2)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Formula Student",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Institute of Industrial and Systems Engineers (IISE)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "National Society of Black Engineers (NSBE)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Next Gen Engineering",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Robotics Club of Central Florida",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "International Student Association (ISA)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "mentioned as a diverse cultural entity",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Badminton",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Baseball",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Basketball",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Bowling",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Brazilian Jiu-Jitsu",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Cuong Nhu Karate",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Cycling",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Equestrian",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Esports",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Fencing",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Golf",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Ice Hockey",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "First Person View Knights (FPV)",
+        "category": "Special Interest",
+        "engagement_indicators": null,
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "African Students Organization",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Listed in directory",
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Iranian Student Organization",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Listed in directory",
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Italian Club",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Listed in directory",
+        "target_priority": "low",
+        "agency_score": 0,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Society of Asian \u200bScientists & Engineers (SASE)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Scholastic Association of Graduates in Engineering (SAGE)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Society of Environmental Engineers (SEE)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Society of Hispanic Professional Engineers (SHPE)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Society of Women Engineers (SWE)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Students for the Exploration and Development of Space (SEDS)",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Judo",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Kendo",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Kiteboarding",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Lacrosse (Men\u2019s)",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Lacrosse (Women\u2019s)",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Paintball",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Rock Climbing",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Rowing",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Image references, club directory",
+        "target_priority": "low",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      }
+    ],
+    "org_count": 64,
+    "high_agency_count": 50,
+    "cluster_count": 4,
+    "elapsed_time": 89.60059404373169
+  },
+  {
+    "campus_name": "University of Miami",
+    "status": "success",
+    "organizations": {
+      "comprehensive_orgs": [
+        {
+          "name": "Asian American Students Association (AASA)",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Promotes Asian culture and identity, builds unity among Asian/Asian American students, educates the University community, mentioned on the UM website.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Association of Latin American Students (ALAS)",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Promotes Latin American cultures, hosts cultural and professional events, student-led initiatives, mentioned on the UM website, Instagram presence.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Filipino Students Association (FSA)",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Promotes Filipino culture and heritage, hosts ethnic dance, food events, guest speakers, cultural events, promotes member welfare, encourages community participation, mentioned on the UM website.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Council of International Students and Organizations (COISO)",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "Represents international students from over 110 countries, hosts meetings and events, International Week celebration, email contact available, office on campus.",
+          "target_priority": "high"
+        },
+        {
+          "name": "Association of Greek Letter Organizations",
+          "category": "Greek Life",
+          "engagement_indicators": "Comprised of 33 fraternities and sororities, provides a forum for discussion between councils, hosts programming throughout the year (Greek 101s, New Member Symposium, Greeks and Goblins, Leadership Conference, Greek Week, Apple Polishing Reception, Annual Awards Banquet), mentioned on UM website.",
+          "target_priority": "high"
+        },
+        {
+          "name": "Interfraternity Council (IFC)",
+          "category": "Greek Life",
+          "engagement_indicators": "Mentioned as a division within Intramural Sports.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Panhellenic Association",
+          "category": "Greek Life",
+          "engagement_indicators": "Mentioned as a division within Intramural Sports and as part of the Association of Greek Letter Organizations.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Multicultural Greek Council (MGC)",
+          "category": "Greek Life",
+          "engagement_indicators": "Part of the Association of Greek Letter Organizations.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "National Pan-Hellenic Council, Inc. (NPHC)",
+          "category": "Greek Life",
+          "engagement_indicators": "Part of the Association of Greek Letter Organizations.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "UM Esports",
+          "category": "Sports/Recreation / Special Interest",
+          "engagement_indicators": "Discord online community mentioned on the UM website.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Club Sports",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Mentioned on the UM website, includes various sports (quidditch, football mentioned as examples).",
+          "target_priority": "high"
+        },
+        {
+          "name": "Intramural Sports",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Offers various sports (flag football, soccer, volleyball, basketball, kickball), different leagues/divisions, uses IMLeagues platform.",
+          "target_priority": "high"
+        },
+        {
+          "name": "Student Media",
+          "category": "Special Interest",
+          "engagement_indicators": "Listed under \"Get Involved\" on UM website.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Service Organizations",
+          "category": "Service/Volunteer",
+          "engagement_indicators": "Listed under \"Get Involved\" on UM website.",
+          "target_priority": "medium"
+        }
+      ],
+      "total_found": 14,
+      "phantombuster_ready": true,
+      "categories_breakdown": {
+        "Cultural/Ethnic": 4,
+        "Greek Life": 5,
+        "Sports/Recreation / Special Interest": 1,
+        "Sports/Recreation": 2,
+        "Special Interest": 1,
+        "Service/Volunteer": 1
+      }
+    },
+    "community_clusters": {
+      "community_clusters": [
+        {
+          "name": "Cultural Affinity Groups",
+          "description": "Students who connect based on shared cultural heritage or interest in specific cultures. This includes groups like the Asian American Student Association, the Mexicanes, and the Indian Student Association. They organize cultural events, celebrations, and provide support networks for students from similar backgrounds.  While the provided text only mentions a few, it's reasonable to assume other cultural groups exist (e.g., Caribbean, Latin American, African student associations) contributing to the diversity of this cluster.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "Academics & Research",
+          "description": "Driven by intellectual curiosity and academic pursuits. This cluster encompasses students engaged in research activities, departmental clubs, and academic honor societies.  The mention of research publications and summer research programs points to a vibrant academic community.  This group likely values intellectual rigor, scholarly achievement, and contributing to their field of study.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "Greek Life",
+          "description": "While not explicitly mentioned, Greek life is a common and prominent social structure on many university campuses, including likely the University of Miami.  This cluster involves fraternities and sororities, focused on social events, philanthropy, and building strong internal bonds. They often have a significant impact on campus social life.",
+          "influence": "high",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "Sports & Athletics Enthusiasts",
+          "description": "Students passionate about sports, whether as athletes, fans, or involved in sports-related organizations. The prominence of 'Hurricane Sports' suggests a strong sports culture.  This group attends games, participates in intramural sports, and supports university teams.  They value competition, teamwork, and school spirit.",
+          "influence": "medium",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Arts and Creative Scene",
+          "description": "Students interested in various forms of artistic expression, including visual arts, music, theater, and creative writing.  The mention of summer research powering 'artistic and scholarly discovery' hints at the presence of this group. This community likely values creativity, self-expression, and collaboration.",
+          "influence": "low",
+          "size_estimate": "small"
+        }
+      ]
+    },
+    "reddit_intelligence": {
+      "top_users": [],
+      "mentioned_orgs": [],
+      "mentioned_places": [
+        "Centennial Village",
+        "Cox Science",
+        "Wellness Center",
+        "The Rat"
+      ],
+      "subreddit_vibe": "The subreddit shows a mix of excitement about acceptances, anxieties about applications and decisions, and general campus life questions.  There's also some discussion of academics and career paths."
+    },
+    "high_agency_orgs": [
+      {
+        "name": "Interfraternity Council (IFC)",
+        "category": "Greek Life",
+        "engagement_indicators": "Mentioned as a division within Intramural Sports.",
+        "target_priority": "medium",
+        "agency_score": 30,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Panhellenic Association",
+        "category": "Greek Life",
+        "engagement_indicators": "Mentioned as a division within Intramural Sports and as part of the Association of Greek Letter Organizations.",
+        "target_priority": "medium",
+        "agency_score": 30,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Multicultural Greek Council (MGC)",
+        "category": "Greek Life",
+        "engagement_indicators": "Part of the Association of Greek Letter Organizations.",
+        "target_priority": "medium",
+        "agency_score": 30,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "National Pan-Hellenic Council, Inc. (NPHC)",
+        "category": "Greek Life",
+        "engagement_indicators": "Part of the Association of Greek Letter Organizations.",
+        "target_priority": "medium",
+        "agency_score": 30,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Association of Greek Letter Organizations",
+        "category": "Greek Life",
+        "engagement_indicators": "Comprised of 33 fraternities and sororities, provides a forum for discussion between councils, hosts programming throughout the year (Greek 101s, New Member Symposium, Greeks and Goblins, Leadership Conference, Greek Week, Apple Polishing Reception, Annual Awards Banquet), mentioned on UM website.",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Council of International Students and Organizations (COISO)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Represents international students from over 110 countries, hosts meetings and events, International Week celebration, email contact available, office on campus.",
+        "target_priority": "high",
+        "agency_score": 25,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Club Sports",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Mentioned on the UM website, includes various sports (quidditch, football mentioned as examples).",
+        "target_priority": "high",
+        "agency_score": 23,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Intramural Sports",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Offers various sports (flag football, soccer, volleyball, basketball, kickball), different leagues/divisions, uses IMLeagues platform.",
+        "target_priority": "high",
+        "agency_score": 23,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Student Media",
+        "category": "Special Interest",
+        "engagement_indicators": "Listed under \"Get Involved\" on UM website.",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Service Organizations",
+        "category": "Service/Volunteer",
+        "engagement_indicators": "Listed under \"Get Involved\" on UM website.",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "UM Esports",
+        "category": "Sports/Recreation / Special Interest",
+        "engagement_indicators": "Discord online community mentioned on the UM website.",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Asian American Students Association (AASA)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Promotes Asian culture and identity, builds unity among Asian/Asian American students, educates the University community, mentioned on the UM website.",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Association of Latin American Students (ALAS)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Promotes Latin American cultures, hosts cultural and professional events, student-led initiatives, mentioned on the UM website, Instagram presence.",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Filipino Students Association (FSA)",
+        "category": "Cultural/Ethnic",
+        "engagement_indicators": "Promotes Filipino culture and heritage, hosts ethnic dance, food events, guest speakers, cultural events, promotes member welfare, encourages community participation, mentioned on the UM website.",
+        "target_priority": "medium",
+        "agency_score": 8,
+        "reddit_mentioned": false
+      }
+    ],
+    "org_count": 14,
+    "high_agency_count": 14,
+    "cluster_count": 5,
+    "elapsed_time": 64.4100890159607
+  },
+  {
+    "campus_name": "Pepperdine University",
+    "status": "success",
+    "organizations": {
+      "comprehensive_orgs": [
+        {
+          "name": "Accounting Society",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Advertising Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Art History Student Society",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Chemistry Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Coding Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": "mentioned mission to publish apps, participate in hackathons",
+          "target_priority": "high"
+        },
+        {
+          "name": "Future Teachers Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Math Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Mock Trial",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Model United Nations",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pepperdine University DECA",
+          "category": "Academic/Professional",
+          "engagement_indicators": "mentioned as providing community and leadership skills",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Physics/Engineering Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pre-Physician Assistant Society",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pre-Dental Society",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pre-Medicine Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": "listed twice",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pre-Optometry Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Pre-Physical Therapy Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pre-Veterinary Club",
+          "category": "Academic/Professional",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "National Society of Leadership and Success (NSLS)",
+          "category": "Honor Society",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Psi Chi Psychology Honor Society",
+          "category": "Honor Society",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Alpha Tau Omega (ATO)",
+          "category": "Greek Life",
+          "engagement_indicators": "mentioned having 12 years of history, service, philanthropy, academic achievement",
+          "target_priority": "high"
+        },
+        {
+          "name": "Pi Kappa Alpha (Pike)",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "Psi Upsilon (Psi U)",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "Sigma Chi (Sig Chi)",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "Sigma Phi Epsilon (Sig Ep)",
+          "category": "Greek Life",
+          "engagement_indicators": "listed twice",
+          "target_priority": "high"
+        },
+        {
+          "name": "Alpha Kappa Alpha Sorority, Inc. (AKA)",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Alpha Phi Alpha Fraternity, Inc. (Alphas)",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Lambda Theta Nu Sorority, Inc.",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Alpha Phi (A Phi)",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "Kappa Alpha Theta (Theta)",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "Delta Delta Delta (Tri Delt)",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "Kappa Kappa Gamma (Kappa/KKG)",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "Delta Gamma (DG)",
+          "category": "Greek Life",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "Armenian Student's Association",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "mentioned promoting Armenian culture and heritage",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Cultural Italian American Organization (CIAO)",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Indigenous People's Club",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "mentioned events, activities, advocacy, inclusion, leadership",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Latinx/o/a/e Student Alliance",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": "mentioned celebrating Latin American culture, diversity",
+          "target_priority": "high"
+        },
+        {
+          "name": "Nikkei Student Union",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pilipino American Student Association",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pepperdine Step Team",
+          "category": "Cultural/Ethnic",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Tennis Club",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "mentioned as competing throughout California and neighboring states",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Surfing Club",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "mentioned as competing throughout California and neighboring states",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Beach Volleyball Club",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "mentioned as competing throughout California and neighboring states",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Esports Club",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "mentioned as competing throughout California and neighboring states",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pepperdine Running Club",
+          "category": "Sports/Recreation",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Surf and Recreation",
+          "category": "Sports/Recreation",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Pepperdine Climbing Club",
+          "category": "Sports/Recreation",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Pickleball Club",
+          "category": "Sports/Recreation",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Art Club",
+          "category": "Arts/Creative",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Cine Club",
+          "category": "Arts/Creative",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Creative Connection",
+          "category": "Arts/Creative",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Fashion Association",
+          "category": "Arts/Creative",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "KWVS Radio",
+          "category": "Arts/Creative",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "Pepperdine Graphic Media",
+          "category": "Arts/Creative",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pepperdine Musical Theatre Club: Eta Theta Tau",
+          "category": "Arts/Creative",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "RnD Dance",
+          "category": "Arts/Creative",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "The Pepperdine Beacon",
+          "category": "Arts/Creative",
+          "engagement_indicators": null,
+          "target_priority": "high"
+        },
+        {
+          "name": "Best Buddies",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Children for a Cause",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Circle K",
+          "category": "Service/Volunteer",
+          "engagement_indicators": "mentioned focus on community service, leadership development, international recognition, collaboration with other universities",
+          "target_priority": "high"
+        },
+        {
+          "name": "Climate Observer Program",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Community and Global Health Club",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Days for Girls",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Food Recovery Network",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Global Justice",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Love Does in Action Club",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Medecins Sans Frontieres/Doctors without Borders",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Surfrider Foundation",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "UNICEF",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "United Posses of Pepperdine",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Waves for Our Health",
+          "category": "Service/Volunteer",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Catholic Student Association",
+          "category": "Religious/Spiritual",
+          "engagement_indicators": "mentioned enriching faith journeys, community, service",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Student-Led Ministries",
+          "category": "Religious/Spiritual",
+          "engagement_indicators": "listed multiple times with a count of 11",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Student Government Association (SGA)",
+          "category": "Student Government",
+          "engagement_indicators": "mentioned in relation to Pepperdine Ambassadors Council",
+          "target_priority": "high"
+        },
+        {
+          "name": "Pepperdine Ambassadors Council",
+          "category": "Student Government",
+          "engagement_indicators": "mentioned representing the University, involvement in student life",
+          "target_priority": "high"
+        },
+        {
+          "name": "Chartwell Forum for Civil Discourse",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Founders Inc.",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Nourish",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Pepperdine College Democrats",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pepperdine College Republicans",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pepperdine Consulting Association",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pepperdine Gaming Club",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pepperdine Real Estate Club",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Pepperdine Juntos",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "low"
+        },
+        {
+          "name": "Sports Business Association",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Student Alumni Organization",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Turning Point USA",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        },
+        {
+          "name": "Rotaract International",
+          "category": "Special Interest",
+          "engagement_indicators": null,
+          "target_priority": "medium"
+        }
+      ],
+      "total_found": 87,
+      "phantombuster_ready": true,
+      "categories_breakdown": {
+        "Academic/Professional": 17,
+        "Honor Society": 2,
+        "Greek Life": 13,
+        "Cultural/Ethnic": 7,
+        "Sports/Recreation": 8,
+        "Arts/Creative": 9,
+        "Service/Volunteer": 14,
+        "Religious/Spiritual": 2,
+        "Student Government": 2,
+        "Special Interest": 13
+      }
+    },
+    "community_clusters": {
+      "community_clusters": [
+        {
+          "name": "The Greek Life",
+          "description": "While not explicitly mentioned in the provided text, Greek life is often a significant social cluster on university campuses.  Given the mentions of parties and social scene reviews, it's likely present at Pepperdine, though perhaps less dominant than at some other universities. This group is likely centered around social events, parties, and philanthropy.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Faith-Focused Community",
+          "description": "Pepperdine is explicitly mentioned as having spiritual opportunities. This cluster likely revolves around religious activities, prayer groups, bible studies, and community service initiatives rooted in faith.  This group's values likely center around their shared religious beliefs and the university's Church of Christ affiliation.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Academically Driven",
+          "description": "Given Pepperdine's focus on academics and the mention of graduate programs and professional schools (law, business, public policy), this cluster prioritizes academic achievement, career development, and professional networking. Activities might include study groups, career fairs, and academic competitions.",
+          "influence": "medium",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Socially Conscious",
+          "description": "The existence of cultural clubs like the Latinx/o/a/e Student Alliance and Indigenous People's Club, combined with the School of Public Policy's focus on positive change, suggests a cluster of students passionate about social justice, diversity, and community engagement.  Activities would include volunteering, activism, and cultural awareness events.",
+          "influence": "medium",
+          "size_estimate": "medium"
+        },
+        {
+          "name": "The Malibu Outdoorsy",
+          "description": "Pepperdine's Malibu location likely attracts students drawn to outdoor activities.  While not explicitly mentioned, the beach setting suggests surfing, hiking, and other outdoor pursuits could be a defining factor for this group. Their values would center around an active lifestyle and appreciating the natural environment.",
+          "influence": "low",
+          "size_estimate": "small"
+        }
+      ]
+    },
+    "reddit_intelligence": {
+      "top_users": [],
+      "mentioned_orgs": [],
+      "mentioned_places": [
+        "Santa Monica",
+        "LA",
+        "USC",
+        "Europe",
+        "Canada",
+        "Hollywood",
+        "Venice"
+      ],
+      "subreddit_vibe": "Anxious prospective and current students discuss financial aid, academics, and social life at Pepperdine.  Concerns about cost and safety are prominent, mixed with excitement about acceptance and some positive experiences."
+    },
+    "high_agency_orgs": [
+      {
+        "name": "Student Government Association (SGA)",
+        "category": "Student Government",
+        "engagement_indicators": "mentioned in relation to Pepperdine Ambassadors Council",
+        "target_priority": "high",
+        "agency_score": 45,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Pepperdine Ambassadors Council",
+        "category": "Student Government",
+        "engagement_indicators": "mentioned representing the University, involvement in student life",
+        "target_priority": "high",
+        "agency_score": 45,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "KWVS Radio",
+        "category": "Arts/Creative",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 33,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Model United Nations",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 28,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Tau Omega (ATO)",
+        "category": "Greek Life",
+        "engagement_indicators": "mentioned having 12 years of history, service, philanthropy, academic achievement",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Pi Kappa Alpha (Pike)",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Psi Upsilon (Psi U)",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Sigma Chi (Sig Chi)",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Sigma Phi Epsilon (Sig Ep)",
+        "category": "Greek Life",
+        "engagement_indicators": "listed twice",
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Phi (A Phi)",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Kappa Alpha Theta (Theta)",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Delta Delta Delta (Tri Delt)",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Kappa Kappa Gamma (Kappa/KKG)",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Delta Gamma (DG)",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 27,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Pepperdine Graphic Media",
+        "category": "Arts/Creative",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 26,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Coding Club",
+        "category": "Academic/Professional",
+        "engagement_indicators": "mentioned mission to publish apps, participate in hackathons",
+        "target_priority": "high",
+        "agency_score": 25,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Circle K",
+        "category": "Service/Volunteer",
+        "engagement_indicators": "mentioned focus on community service, leadership development, international recognition, collaboration with other universities",
+        "target_priority": "high",
+        "agency_score": 25,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "The Pepperdine Beacon",
+        "category": "Arts/Creative",
+        "engagement_indicators": null,
+        "target_priority": "high",
+        "agency_score": 23,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Kappa Alpha Sorority, Inc. (AKA)",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Phi Alpha Fraternity, Inc. (Alphas)",
+        "category": "Greek Life",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Accounting Society",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Advertising Club",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Art History Student Society",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Chemistry Club",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Future Teachers Club",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Math Club",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Mock Trial",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Pepperdine University DECA",
+        "category": "Academic/Professional",
+        "engagement_indicators": "mentioned as providing community and leadership skills",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Physics/Engineering Club",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Pre-Physician Assistant Society",
+        "category": "Academic/Professional",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Best Buddies",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Children for a Cause",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Climate Observer Program",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Community and Global Health Club",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Days for Girls",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Food Recovery Network",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Global Justice",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Love Does in Action Club",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Medecins Sans Frontieres/Doctors without Borders",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Surfrider Foundation",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "UNICEF",
+        "category": "Service/Volunteer",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Pepperdine Consulting Association",
+        "category": "Special Interest",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Tennis Club",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "mentioned as competing throughout California and neighboring states",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Surfing Club",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "mentioned as competing throughout California and neighboring states",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Beach Volleyball Club",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "mentioned as competing throughout California and neighboring states",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Esports Club",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "mentioned as competing throughout California and neighboring states",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Art Club",
+        "category": "Arts/Creative",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Cine Club",
+        "category": "Arts/Creative",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Creative Connection",
+        "category": "Arts/Creative",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Fashion Association",
+        "category": "Arts/Creative",
+        "engagement_indicators": null,
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      }
+    ],
+    "org_count": 87,
+    "high_agency_count": 50,
+    "cluster_count": 5,
+    "elapsed_time": 94.18632078170776
+  },
+  {
+    "campus_name": "Syracuse University",
+    "status": "success",
+    "organizations": {
+      "comprehensive_orgs": [
+        {
+          "name": "Delta Kappa Epsilon",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned as the first fraternity at Syracuse University (1871)",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Alpha Phi",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned as the first sorority at Syracuse University (1872)",
+          "target_priority": "medium"
+        },
+        {
+          "name": "alpha Kappa Delta Phi (\u03b1\u039a\u0394\u03a6)",
+          "category": "Cultural/Greek",
+          "engagement_indicators": "Described in detail, including pillars and values",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Phi Sigma Sigma",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned in relation to Panhellenic kickoff",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Organizations under the National Panhellenic Council",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned as a governing body for sororities",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Organizations under the North American Interfraternity Conference (IFC)",
+          "category": "Greek",
+          "engagement_indicators": "Mentioned as a governing body for fraternities",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Organizations under the National Association of Latino Fraternal Organizations",
+          "category": "Greek/Cultural",
+          "engagement_indicators": "Mentioned as a governing body for Latino fraternities and sororities",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Organizations under the National Multicultural Greek Council",
+          "category": "Greek/Cultural",
+          "engagement_indicators": "Mentioned as a governing body, further described in a dedicated section.",
+          "target_priority": "high"
+        },
+        {
+          "name": "Organizations under the National Pan-Hellenic Council",
+          "category": "Greek/Cultural",
+          "engagement_indicators": "Mentioned as a governing body for historically African American fraternities and sororities",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Syracuse University Gymnastics Club",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Mentioned with image caption.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Syracuse University Club Sports Baseball",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Mentioned with image caption.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Syracuse University Sailing",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "Mentioned with image of sailboats",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Various Club Sports",
+          "category": "Sports/Recreation",
+          "engagement_indicators": "A long list of sports is provided (Badminton, Baseball, etc.)",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Student-Run Media Organizations",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned as opportunities for budding journalists",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Clubs and Organizations focused on Community Service",
+          "category": "Service/Volunteer",
+          "engagement_indicators": "Mentioned as groups committed to uplifting local communities and building a better world.",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Over 250 Recognized Student Organizations (General)",
+          "category": "Various",
+          "engagement_indicators": "Repeatedly mentioned throughout the text",
+          "target_priority": "high"
+        },
+        {
+          "name": "Graduate-led Student Organizations",
+          "category": "Academic/Professional",
+          "engagement_indicators": "Mentioned as important for expanding academic interests and professional networks",
+          "target_priority": "medium"
+        },
+        {
+          "name": "Registered Student Organizations (RSOs)",
+          "category": "Various",
+          "engagement_indicators": "Mentioned as providing space for students to learn, grow, and network.",
+          "target_priority": "high"
+        }
+      ],
+      "total_found": 18,
+      "phantombuster_ready": true,
+      "categories_breakdown": {
+        "Greek": 5,
+        "Cultural/Greek": 1,
+        "Greek/Cultural": 3,
+        "Sports/Recreation": 4,
+        "Academic/Professional": 2,
+        "Service/Volunteer": 1,
+        "Various": 2
+      }
+    },
+    "community_clusters": {
+      "community_clusters": [
+        {
+          "name": "The Greek Life",
+          "description": "A significant presence on campus, Greek organizations offer social events, philanthropy opportunities, and a strong sense of community and belonging. Values often include tradition, brotherhood/sisterhood, and social engagement. Activities revolve around chapter meetings, philanthropy events, Greek Week, and social gatherings.",
+          "influence": "high",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Party Scene",
+          "description": "This group thrives on the active social life at Syracuse, with a focus on parties and nightlife.  Values include social connections and having fun.  While influenced by Greek life, it also includes students outside the Greek system. Activities center around frequenting bars, attending house parties, and enjoying the weekend nightlife.",
+          "influence": "medium",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Academics & Researchers",
+          "description": "Driven by academic pursuits and research opportunities. Values include intellectual curiosity, scholarly achievement, and professional development. Activities include attending lectures, engaging in research projects with professors, joining academic clubs and organizations, and utilizing campus libraries and resources.",
+          "influence": "medium",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Sports & Spirit Enthusiasts",
+          "description": "Passionate about Syracuse University athletics and school spirit.  Values include team loyalty, school pride, and the excitement of competition. Activities revolve around attending sporting events (especially basketball and football), participating in pep rallies and tailgates, and engaging in sports-related clubs and organizations.",
+          "influence": "high",
+          "size_estimate": "large"
+        },
+        {
+          "name": "The Involved & Community-Oriented",
+          "description": "Active members of various student organizations beyond Greek life and academics.  Values include community engagement, leadership development, and diverse interests.  Activities range from participating in student government and volunteering to joining clubs focused on hobbies, arts, culture, or social causes.  This group leverages the 300+ student organizations available.",
+          "influence": "medium",
+          "size_estimate": "large"
+        }
+      ]
+    },
+    "reddit_intelligence": {
+      "top_users": [],
+      "mentioned_orgs": [
+        "Syracuse University marching band"
+      ],
+      "mentioned_places": [
+        "Destiny USA",
+        "Chittenango Falls",
+        "Clinton Square",
+        "Syracuse stadium",
+        "Green Lakes",
+        "Otisco lake",
+        "Lake Ontario",
+        "Carousel Mall",
+        "Canale\u2019s",
+        "Oswego"
+      ],
+      "subreddit_vibe": "The Syracuse subreddit reflects a mix of local pride and political engagement.  Discussions range from celebrating local landmarks and events to expressing strong opinions on political figures and social issues."
+    },
+    "high_agency_orgs": [
+      {
+        "name": "Organizations under the National Multicultural Greek Council",
+        "category": "Greek/Cultural",
+        "engagement_indicators": "Mentioned as a governing body, further described in a dedicated section.",
+        "target_priority": "high",
+        "agency_score": 37,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Organizations under the National Panhellenic Council",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned as a governing body for sororities",
+        "target_priority": "medium",
+        "agency_score": 30,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Organizations under the North American Interfraternity Conference (IFC)",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned as a governing body for fraternities",
+        "target_priority": "medium",
+        "agency_score": 30,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Organizations under the National Pan-Hellenic Council",
+        "category": "Greek/Cultural",
+        "engagement_indicators": "Mentioned as a governing body for historically African American fraternities and sororities",
+        "target_priority": "medium",
+        "agency_score": 30,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Student-Run Media Organizations",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned as opportunities for budding journalists",
+        "target_priority": "medium",
+        "agency_score": 28,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Delta Kappa Epsilon",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned as the first fraternity at Syracuse University (1871)",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Alpha Phi",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned as the first sorority at Syracuse University (1872)",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "alpha Kappa Delta Phi (\u03b1\u039a\u0394\u03a6)",
+        "category": "Cultural/Greek",
+        "engagement_indicators": "Described in detail, including pillars and values",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Phi Sigma Sigma",
+        "category": "Greek",
+        "engagement_indicators": "Mentioned in relation to Panhellenic kickoff",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Organizations under the National Association of Latino Fraternal Organizations",
+        "category": "Greek/Cultural",
+        "engagement_indicators": "Mentioned as a governing body for Latino fraternities and sororities",
+        "target_priority": "medium",
+        "agency_score": 20,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Clubs and Organizations focused on Community Service",
+        "category": "Service/Volunteer",
+        "engagement_indicators": "Mentioned as groups committed to uplifting local communities and building a better world.",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Graduate-led Student Organizations",
+        "category": "Academic/Professional",
+        "engagement_indicators": "Mentioned as important for expanding academic interests and professional networks",
+        "target_priority": "medium",
+        "agency_score": 18,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Syracuse University Gymnastics Club",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Mentioned with image caption.",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Syracuse University Club Sports Baseball",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Mentioned with image caption.",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Syracuse University Sailing",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "Mentioned with image of sailboats",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Various Club Sports",
+        "category": "Sports/Recreation",
+        "engagement_indicators": "A long list of sports is provided (Badminton, Baseball, etc.)",
+        "target_priority": "medium",
+        "agency_score": 16,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Over 250 Recognized Student Organizations (General)",
+        "category": "Various",
+        "engagement_indicators": "Repeatedly mentioned throughout the text",
+        "target_priority": "high",
+        "agency_score": 15,
+        "reddit_mentioned": false
+      },
+      {
+        "name": "Registered Student Organizations (RSOs)",
+        "category": "Various",
+        "engagement_indicators": "Mentioned as providing space for students to learn, grow, and network.",
+        "target_priority": "high",
+        "agency_score": 15,
+        "reddit_mentioned": false
+      }
+    ],
+    "org_count": 18,
+    "high_agency_count": 18,
+    "cluster_count": 5,
+    "elapsed_time": 76.58484697341919
+  }
+]
