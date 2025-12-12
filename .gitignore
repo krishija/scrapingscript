@@ -1,2 +1,6 @@
 .env
 myenv/
+__pycache__/
+.DS_Store
+generated_pdfs/
+outputs/
